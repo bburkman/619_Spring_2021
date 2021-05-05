@@ -1,0 +1,131 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{GOH201877}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ff70d3833f003183f5ee3c1bb87d9b90}{%
+           family={Goh},
+           familyi={G\bibinitperiod},
+           given={Yang\bibnamedelima Miang},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=800687de4541ba9263c04d0e0958474c}{%
+           family={Ubeynarayana},
+           familyi={U\bibinitperiod},
+           given={Chalani\bibnamedelima U.},
+           giveni={C\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=d95fb3fc1d7d137456c34c59063ce58c}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Karen\bibnamedelimb Le\bibnamedelima Xin},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=672a37364fe9d1414cdb750a0ddd858d}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Brian\bibnamedelima H.W.},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{05029f9d4d8ba6eb10238ae5f18ac89a}
+      \strng{fullhash}{ef0ce40e141d1b88882321afa1906a2d}
+      \strng{bibnamehash}{05029f9d4d8ba6eb10238ae5f18ac89a}
+      \strng{authorbibnamehash}{05029f9d4d8ba6eb10238ae5f18ac89a}
+      \strng{authornamehash}{05029f9d4d8ba6eb10238ae5f18ac89a}
+      \strng{authorfullhash}{ef0ce40e141d1b88882321afa1906a2d}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Despite its potential, the use of machine learning in safety studies had been limited. Considering machine learning’s advantage in predictive accuracy, this study used a supervised learning approach to evaluate the relative importance of different cognitive factors within the Theory of Reasoned Action (TRA) in influencing safety behavior. Data were collected from 80 workers in a tunnel construction project using a TRA-based questionnaire. At the same time, behavior-based safety (BBS) observation data, unsafe behavior, was collected. Subsequently, with the TRA cognitive factors as the input attributes, six widely-used machine learning algorithms and logistic regression were used to develop models to predict unsafe behavior. The receiver operating characteristic (ROC) curves show that decision tree provides the best prediction. It was found that intention and social norms have the biggest influence on whether a worker was observed to work safely or not. Thus, managers aiming to improve safety behaviors need to pay specific attention to social norms in the worksite. The study also showed that a TRA survey can be used to extend a BBS to facilitate more effective interventions. Lastly, the study showed that machine learning algorithms provide an alternative approach for analyzing the relationship between the cognitive factors and behavioral data.}
+      \field{issn}{0001-4575}
+      \field{journaltitle}{Accident Analysis and Prevention}
+      \field{title}{Factors influencing unsafe behaviors: A supervised learning approach}
+      \field{volume}{118}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{77\bibrangedash 85}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.aap.2018.06.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0001457518302173
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0001457518302173
+      \endverb
+      \keyw{Theory of reasoned action,Safety behavior,Construction safety,Working at height,Machine learning}
+    \endentry
+    \entry{HUGHES2019289}{article}{}
+      \name{author}{4}{}{%
+        {{hash=72a7dc89b44e12e1e86fd6dfd6012910}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Sebastián},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4aaa42d03b19321655bbf3ab2de38d73}{%
+           family={Moreno},
+           familyi={M\bibinitperiod},
+           given={Sebastián},
+           giveni={S\bibinitperiod}}}%
+        {{hash=88ab509d107773559ce959ab659d3880}{%
+           family={Yushimito},
+           familyi={Y\bibinitperiod},
+           given={Wilfredo\bibnamedelima F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=a2e47f259dcc804445f25f2589c6c8b7}{%
+           family={Huerta-Cánepa},
+           familyi={H\bibinithyphendelim C\bibinitperiod},
+           given={Gonzalo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{9decab9996451f60e360825dec2d90d6}
+      \strng{fullhash}{6d784211816df8b1ceafd69b8e53d046}
+      \strng{bibnamehash}{9decab9996451f60e360825dec2d90d6}
+      \strng{authorbibnamehash}{9decab9996451f60e360825dec2d90d6}
+      \strng{authornamehash}{9decab9996451f60e360825dec2d90d6}
+      \strng{authorfullhash}{6d784211816df8b1ceafd69b8e53d046}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In last mile distribution, logistics companies typically arrange and plan their routes based on broad estimates of stop delivery times (i.e., the time spent at each stop to deliver goods to final receivers). If these estimates are not accurate, the level of service is degraded, as the promised time window may not be satisfied. The purpose of this work is to assess the feasibility of machine learning techniques to predict stop delivery times. This is done by testing a wide range of machine learning techniques (including different types of ensembles) to (1) predict the stop delivery time and (2) to determine whether the total stop delivery time will exceed a predefined time threshold (classification approach). For the assessment, all models are trained using information generated from GPS data collected in Medellín, Colombia and compared to hazard duration models. The results are threefold. First, the assessment shows that regression-based machine learning approaches are not better than conventional hazard duration models concerning absolute errors of the prediction of the stop delivery times. Second, when the problem is addressed by a classification scheme in which the prediction is aimed to guide whether a stop time will exceed a predefined time, a basic K-nearest-neighbor model outperforms hazard duration models and other machine learning techniques both in accuracy and F1 score (harmonic mean between precision and recall). Third, the prediction of the exact duration can be improved by combining the classifiers and prediction models or hazard duration models in a two level scheme (first classification then prediction). However, the improvement depends largely on the correct classification (first level).}
+      \field{issn}{0968-090X}
+      \field{journaltitle}{Transportation Research Part C: Emerging Technologies}
+      \field{title}{Evaluation of machine learning methodologies to predict stop delivery times from GPS data}
+      \field{volume}{109}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{289\bibrangedash 304}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.trc.2019.10.018
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0968090X18314645
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0968090X18314645
+      \endverb
+      \keyw{Machine learning,Stop delivery time,Classification,Regression,Hazard duration,GPS}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
