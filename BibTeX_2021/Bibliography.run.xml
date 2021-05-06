@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="1">
+  <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>Bibliography.bcf</file>
@@ -79,7 +79,7 @@
       <file>Bibliography.bcf</file>
     </requires>
     <requires type="editable">
-      <file>bibfile_2021-copy-copy.bib</file>
+      <file>bibfile_2021.bib</file>
     </requires>
   </external>
 </requests>
