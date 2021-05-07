@@ -716,6 +716,9 @@
            given={Moe},
            giveni={M\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Shahid Bahonar U}%
+      }
       \strng{namehash}{ec1e74e77691c440b4d63f9af8103986}
       \strng{fullhash}{5bf39d590bbb2b2bc42b80c00d5bdfbc}
       \strng{bibnamehash}{5bf39d590bbb2b2bc42b80c00d5bdfbc}
@@ -728,6 +731,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Run-off-road (ROR) crashes have always been a major concern as this type of crash is usually associated with a considerable number of serious injury and fatal crashes. A substantial portion of ROR fatalities occur in collisions with fixed objects at the roadside. Thus, this study seeks to investigate the severity of ROR crashes where elderly drivers, aged 65 years or more, hit a fixed object. The reason why the present study investigates this issue among older drivers is that, comparing to younger drivers, this age group of drivers have different psychological and physical features. Because of these differences, they are more likely to get injured in ROR types of crashes. This paper applies two types of Artificial Intelligence (AI) techniques, including hybrid Intelligent Genetic Algorithm and Artificial Neural Network (ANN) using the crashe information of California in 2012 obtained from Highway Safety Information System (HSIS) database. Although the results showed that the developed ANN outperformed the hybrid Intelligent Genetic Algorithm, the hybrid approach was more capable of predicting high-severity crashes. This is rooted in the way the hybrid model was trained by taking advantage of the Genetic Algorithm (GA). The results also indicated that the light condition has been the most significant parameter in evaluating the level of severity associated with fixed object crashes among elderly drivers, which is followed by the existence of the right and left shoulders. Following these three contributing factors, cause of collision, Average Annual Daily Traffic (AADT), number of involved vehicles, age, road surface condition, and gender have been identified as the most important variables in the developed ANN, respectively. This helps to identify gaps and improve public safety towards improving the overall highway safety situation of older drivers.}
+      \field{addendum}{None}
+      \field{annotation}{Identified factors associated with level of severity of crash.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A comparison between Artificial Neural Network and Hybrid Intelligent Genetic Algorithm in predicting the severity of fixed object crashes among elderly drivers}
@@ -1893,6 +1898,9 @@
            given={Yaoyao},
            giveni={Y\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Nanyang Technological U}%
+      }
       \strng{namehash}{94ca12a80fe2e11475e01dddbfdc20d1}
       \strng{fullhash}{1da505d09f2179ba26928e54dd40ec37}
       \strng{bibnamehash}{1da505d09f2179ba26928e54dd40ec37}
@@ -1906,6 +1914,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The era of ‘Big Data’ provides opportunities for researchers to have deep insights into traffic safety. By taking advantages of ‘Big Data’, this study proposes a data-driven method to develop a Copula-Bayesian Network (Copula-BN) using a large-scale naturalistic driving dataset with multiple features. The Copula-BN is able to explain the causality of a risky driving maneuver. As compared with conventional BNs, the Copula-BN developed in this study has the following advantages: the Copula-BN 1. Has a more rational and explainable structure; 2. Is less likely to be over-fitting and can attain more satisfactory prediction performance; and 3. Can handle not only discrete but also continuous features. In terms of technical innovations, Shapley Additive Explanation (SHAP) is used for feature selection, while Gaussian Copula function is employed to build the dependency structure of the Copula-BN. As for applications, the Copula-BNs are used to investigate the causality of risky lane-changing (LC) and car-following (CF) maneuvers, upon which the comparisons are made between the two essential but risky driving maneuvers. In this study, the Copula-BNs are developed based on the Second Highway Research Program (SHRP2) Naturalistic Driving Study (NDS) database. Upon network evaluation, the Copula-BNs for both risky LC and CF maneuvers demonstrate satisfactory structure performance and promising prediction performance. Feature inferences are conducted based on the Copula-BNs to respectively illustrate the causation of the two risky maneuvers. Several interesting findings related to features’ contribution are discussed in this paper. To a certain extent, the Copula-BN developed using the data-driven method makes a trade-off between prediction and causality within the ‘Big Data’. The comparison between risky LC and CF maneuvers also provides a valuable reference for crash risk evaluation, road safety policy-making, etc. In the future, the achievements of this study could be applied in Advanced Driver-Assistance System (ADAS) and accident diagnosis system to enhance road traffic safety.}
+      \field{addendum}{Need advanced data cleaning methods}
+      \field{annotation}{Used Random Forest in feature selection}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A data-driven feature learning approach based on Copula-Bayesian Network and its application in comparative investigation on risky lane-changing and car-following maneuvers}
@@ -5109,6 +5119,9 @@
            given={Yang},
            giveni={Y\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Northwestern U}%
+      }
       \strng{namehash}{c3831fbfea75093fc8f10a7099dac0cf}
       \strng{fullhash}{c3831fbfea75093fc8f10a7099dac0cf}
       \strng{bibnamehash}{c3831fbfea75093fc8f10a7099dac0cf}
@@ -5121,6 +5134,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{As part of the emerging world of intelligent transportation, there is considerable interest in developing connected vehicles that are more capable of identifying and guiding individual drivers’ behavior than collecting mileage as a moving cart. The two goals of this study are (a) to build a conceptual framework for driver assessment and (b) develop recommendation systems to evaluate individual driving performance and guide driver behaviors, thus improving the network traffic conditions and individuals’ perceived safety. A safety score is defined relatively by comparing a driver’s individual pattern to a standard “safe driver” pattern. To elaborate, the proposed system adopts advanced data mining techniques to extract, identify, characterize, and display driving behavior patterns. The scoring system provides a basis of assessing individual drivers, who are then recommended to mimic a nearby “safe” driver in a connected environment. To evaluate and implement the proposed conceptual framework, an anonymous trajectory dataset collected from Pittsburgh urban area is applied to build the scoring system, which is then integrated within a virtually simulated environment. The results show that the proposed behavior assessment and recommendation system framework improves the overall performance of a connected traffic system beyond those attained through baseline connectivity principles.}
+      \field{addendum}{Finally, several extensions of this work are proposed. First, different levels of connectivity for longer tests with more vehicles within other networks, especially in rural areas, would be worthwhile. Second, the data library could be improved by introducing more trajectory data in addition to other types of data describing the driving situations, particularly weather, road conditions, and the driving culture (i.e. social norms) in the area/city/country where the driving data is collected. Third, the proposed system is extendable to an on-line case which can be updated in real-time. Fourth, as stated in Section 5.2, the importance of compliance rate could be further explored with a set of more systematically designed experiments. With additional training data and more robust simulations, the attractiveness of this system for deploying a wider range of traffic management interventions and individual driver guidance is indeed possible.}
+      \field{annotation}{Not ML}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A driver behavior assessment and recommendation system for connected vehicles to produce safer driving environments through a “follow the leader” approach}
@@ -5517,6 +5532,9 @@
            given={Arshad},
            giveni={A\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Southwest Jiaotong U}%
+      }
       \strng{namehash}{d0b998b0f3b3cbf2dad7efe104d2a744}
       \strng{fullhash}{478b94ba47abd4d7e69c86e433f2f2c2}
       \strng{bibnamehash}{478b94ba47abd4d7e69c86e433f2f2c2}
@@ -5529,6 +5547,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Motorcycles and motorcyclists have a variety of attributes that have been found to be a potential contributor to the high liability of vulnerable road users (VRUs). Vulnerable Road Users (VRUs) that include pedestrians, bicyclists, cycle-rickshaw occupants, and motorcyclists constitute by far the highest share of road traffic accidents in developing countries. Motorized three-wheeled Rickshaws (3W-MR) is a popular public transport mode in almost all Pakistani cities and is used primarily for short trips to carry passengers and small-scale goods movement. Despite being an important mode of public transport in the developing world, little work has been done to understand the factors affecting the injury severity of three-wheeled motorized vehicles. Crash injury severity prediction is a promising research target in traffic safety. Traditional statistical models have underlying assumptions and predefined associations, which can yield misleading results if flouted. Machine learning(ML) is an emerging non-parametric method that can effectively capture the non-linear effects of both continuous and discrete variables without prior assumptions and achieve better prediction accuracy. This research analyzed injury severity of three-wheeled motorized rickshaws (3W-MR) using various machine learning-based identification algorithms, i.e., Decision jungle (DJ), Random Forest (RF), and Decision Tree (DT). Three years of crash data (from 2017 to 2019) was collected from Provincial Emergency Response Service RESCUE 1122 for Rawalpindi city, Pakistan. A total of 2,743 3W-MR crashes were reported during the study period that resulted in 258 fatalities. The predictive performance of proposed ML models was assessed using several evaluation metrics such as overall accuracy, macro-average precision, macro-average recall, and geometric means of individual class accuracies. Results revealed that DJ with an overall accuracy of 83.7 \% outperformed the DT and RF-based on a stratified 10-fold cross-validation approach. Finally, Spearman correlation analysis showed that factors such as the lighting condition, crashes involving young drivers (aged 20–30 years), facilities with high-speed limits (over 60 mph), weekday, off-peak, and shiny weather conditions were more likely to worsen injury severity of 3W-MR crashes. The outcomes of this study could provide necessary and essential guidance to road safety agencies, particularly in the study area, for proactive implementation of appropriate countermeasures to curb road safety issues pertaining to three-wheeled motorized vehicles.}
+      \field{addendum}{Future studies could seek more advanced techniques such as ensemble and deep learning on other detailed datasets to explore factors contributing to this VRUs group.}
+      \field{annotation}{Nothing new.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A comparative study of machine learning classifiers for injury severity prediction of crashes involving three-wheeled motorized rickshaw}
@@ -6450,6 +6470,9 @@
            given={Ying},
            giveni={Y\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {North Dakota State U}%
+      }
       \strng{namehash}{11925254bd623e430c53e098c3bd490f}
       \strng{fullhash}{e91d8b6ac52e48482ae56fd58c888c55}
       \strng{bibnamehash}{e91d8b6ac52e48482ae56fd58c888c55}
@@ -6462,6 +6485,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper proposes a machine learning approach, the random survival forest (RSF) for competing risks, to investigate highway-rail grade crossing (HRGC) crash severity during a 29-year analysis period. The benefits of the RSF approach are that it (1) is a special type of survival analysis able to accommodate the competing nature of multiple-event outcomes to the same event of interest (here the competing multiple events are crash severities), (2) is able to conduct an event-specific selection of risk factors, (3) has the capability to determine long-term cumulative effects of contributors with the cumulative incidence function (CIF), (4) provides high prediction performance, and (5) is effective in high-dimensional settings. The RSF approach is able to consider complexities in HRGC safety analysis, e.g., non-linear relationships between HRGCs crash severities and the contributing factors and heterogeneity in data. Variable importance (VIMP) technique is adopted in this research for selecting the most predictive contributors for each crash-severity level. Moreover, marginal effect analysis results real several HRGC countermeasures’ effectiveness. Several insightful findings are discovered. For examples, adding stop signs to HRGCs that already have a combination of gate, standard flashing lights, and audible devices will reduce the likelihood of property damage only (PDO) crashes for up to seven years; but after the seventh year, the crossings are more likely to have PDO crashes. Adding audible devices to crossing with gates and standard flashing lights will reduce crash likelihood, PDO, injury, and fatal crashes by 49 \%, 52 \%, 46 \%, and 50 \%, respectively.}
+      \field{addendum}{None}
+      \field{annotation}{Highway-Rail Grade Crossing, found two correlated countermeasures, with temporal effects.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A crash severity analysis at highway-rail grade crossings: The random survival forest method}
@@ -9059,6 +9084,9 @@
            given={Timothy\bibnamedelima L.},
            giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Texas A\&M U}%
+      }
       \strng{namehash}{00f904b4dca5131ef009bc6c2fc723c0}
       \strng{fullhash}{a9cad3d38acf0a81099c0e5371ba8c68}
       \strng{bibnamehash}{a9cad3d38acf0a81099c0e5371ba8c68}
@@ -9071,6 +9099,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This study designs and evaluates a contextual and temporal algorithm for detecting drowsiness-related lane. The algorithm uses steering angle, pedal input, vehicle speed and acceleration as input. Speed and acceleration are used to develop a real-time measure of driving context. These measures are integrated with a Dynamic Bayesian Network that considers the time dependencies in transitions between drowsiness and awake states. The Dynamic Bayesian Network algorithm is validated with data collected from 72 participants driving the National Advanced Driving Simulator. The algorithm has a significantly lower false positive rate than PERCLOS—the current gold standard—and baseline, non-contextual, algorithms under design parameters that prioritize drowsiness detection. Under these parameters, the algorithm reduces false positive rate in highway and rural environments, which are typically problematic for vehicle-based detection algorithms. This algorithm is a promising new approach to driver impairment detection and suggests contextual factors should be considered in subsequent algorithm development processes. It may be combined with comprehensive mitigation methods to improve driving safety.}
+      \field{addendum}{None}
+      \field{annotation}{Random Forest for feature generation. Only 72 data points. Interesting for extensive description of other algorithms and lit review.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A contextual and temporal algorithm for driver drowsiness detection}
@@ -10358,6 +10388,9 @@
            given={Mark},
            giveni={M\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Queensland U of Technology}%
+      }
       \strng{namehash}{16c060285b8a0cbd2bda288b5e98376f}
       \strng{fullhash}{16c060285b8a0cbd2bda288b5e98376f}
       \strng{bibnamehash}{16c060285b8a0cbd2bda288b5e98376f}
@@ -10370,6 +10403,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Mobile phone distracted driving is a major risk factor for crashes. However, this behaviour has been increasing in recent years. Effective enforcement of mobile phone bans while driving faces several obstacles; as such, it is important to consider additional countermeasures. Applications designed to prevent distracted driving are a promising solution, yet more research is needed that examines their effectiveness in reducing dangerous phone use while driving behaviours. Additionally, these applications are voluntary in nature; therefore, an understanding of drivers’ perceptions of the applications is necessary to determine how to improve uptake. A mixed methods design was utilised to examine these factors in a comprehensive manner. A total of 40 participants used the smartphone application “Do Not Disturb While Driving” for iOS phone operating systems or “Android Auto” for Android phone operating systems for approximately one week and completed three diary entries reporting on their experience. Two questionnaires that examined phone use while driving behaviours were also administered to participants; one before and one after completing the study. The quantitative results found that engagement in 1) visual-manual, 2) cognitive-auditory and 3) music mobile phone interactions significantly decreased while using the application. Distraction engagement and mental workload while driving also significantly decreased while using the application. The qualitative results identified a number of areas of improvement that need to be addressed, e.g. activation of the application and Bluetooth connection reliability. The features that required improvement presented an obstacle for effective use of the applications, and in some cases resulted in drivers deciding to stop using the application. Positive perceptions of the application were associated with the experiences of the application functioning appropriately and activating automatically. These results show that applications designed for voluntary use to prevent mobile phone distracted driving are a promising countermeasure, although current applications require several improvements.}
+      \field{annotation}{Not ML}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{“It is frustrating to not have control even though I know it’s not legal!”: A mixed-methods investigation on applications to prevent mobile phone use while driving}
@@ -11287,6 +11321,9 @@
            given={Hany\bibnamedelima M.},
            giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Louisiana State U}%
+      }
       \strng{namehash}{b3a92c8edb2dbd857b0eb57f904683ca}
       \strng{fullhash}{b3a92c8edb2dbd857b0eb57f904683ca}
       \strng{bibnamehash}{b3a92c8edb2dbd857b0eb57f904683ca}
@@ -11299,6 +11336,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Highway work zones are most vulnerable roadway segments for congestion and traffic collisions. Hence, providing accurate and timely prediction of the severity of traffic collisions at work zones is vital to reduce the response time for emergency units (e.g., medical aid), accordingly improve traffic safety and reduce congestion. In predicting the severity of traffic collisions, previous studies used different statistical and machine learning models with accuracy as the main evaluating factor. However, the performance of these models was generally not good, especially on fatal and injury crashes. Also, looking into the prediction accuracy only is misleading. This paper aims to propose a novel deep learning-based approach with a customized f1-loss function to predict the severity of traffic crashes. Underlying this objective is to compare the results of deep learning models with machine learning model considering two performance indicators, namely precision, and recall. The data used in the analysis include a sample of traffic crashes that occurred at work zones in Louisiana from 2014 to 2018. This dataset includes valuable information (features) related to road, vehicle, and human factors affecting the occurrence and severity of those crashes. The proposed methodology is based on transforming these features/variables into images. Image transformation is conducted using a nonlinear dimensionality reduction technique t-SNE and convex hull algorithm. A CNN based deep learning algorithm with a customized loss function was used to directly optimize the model for precision and recall. The results showed improved performance in predicting the crash severity of fatal and injury crashes using the deep learning approach, which can help to improve traffic safety as well as traffic congestion at work zones and possibly other roadways segments.}
+      \field{addendum}{Future studies may further tune the weight parameter ($\beta$) of the loss function and the threshold value for classifiers to get more optimized precision and recall values suitable for real-life applications.}
+      \field{annotation}{Interesting}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A deep learning based traffic crash severity prediction framework}
@@ -12264,6 +12303,10 @@
            given={Michael},
            giveni={M\bibinitperiod}}}%
       }
+      \list{institution}{2}{%
+        {U of Natural Resources}%
+        {Life Sciences, Vienna}%
+      }
       \strng{namehash}{e1990fe5a2b6b56caac11b6bc1845fed}
       \strng{fullhash}{a23a893b2791e7abbda511c883f24634}
       \strng{bibnamehash}{a23a893b2791e7abbda511c883f24634}
@@ -12276,6 +12319,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{One of the main aims of accident data analysis is to derive the determining factors associated with road traffic accident occurrence. While current studies mainly use variants of count data regression to achieve this aim, the problem can also be considered as a binary classification task, with the dichotomous target variable indicating events (accidents) and non-events (no accidents). The effects of 45 variables – describing road condition and geometry, traffic volume and regulations, weather, and accident time – are analyzed using a dataset in high temporal (1 h) and spatial (250 m) resolution, covering the whole highway network of Austria over the period of four consecutive years. A combination of synthetic minority oversampling and maximum dissimilarity undersampling is used to balance the training dataset. We employ and compare a series of statistical learning techniques with respect to their predictive performance and discuss the importance of determining factors of accident occurrence from the ensemble of models. Findings substantiate that a trade-off between accuracy and sensitivity is inherent to imbalanced classification problems. Results show satisfying performance of tree-based methods which exhibit accuracies between 75\% and 90\% while exhibiting sensitivities between 30\% and 50\%. Overall, this analysis emphasizes the merits of using high-resolution data in the context of accident analysis.}
+      \field{addendum}{Having described the modeling approach with a methodological focus, further work should be targeted at a more detailed assessment of the results from a traffic-safety point of view. Therefore, next steps should focus on investigating whose sections’ outcome is captured well, and shed some light on the why. In addition, further analysis featuring variants of bootstrap aggregating could be useful for improving the robustness of the results. We propose several concrete analysis steps for this empirical assessment: Further temporal aggregation: Given the assumption that results obtained from any learners applied to the dataset featuring hourly values are subject to uncertainty, the temporal binning size could be adjusted in order to create coarser, yet more robust aggregates. These aggregated data could be used to test the hypothesis that the significance of results would increase with increasing binning level. While some information is lost, since variables related to some sort of timestamp (i.e. hour and weekday classification, respectively) have to be dropped, a more robust assessment might prove to be conclusive. Assessing model performance using a meta variable: In order to further investigate contributing factors to model quality, several approaches featuring a new binary meta target variable, which is derived from the confusion matrices of the existing model results, could be tested. Multiple definitions of how to derive such a metavariable are possible. Machine learning models for binary classification could again be trained to assess variable importance for this new meta model. Balanced bagging: Following the line of Wallace et al. (2011), bagging an ensemble of classifiers induced over balanced bootstrap training samples and predicting the outcome state by using a majority vote could be a valuable approach to obtain more robust results. Correlation issues: Further insights might be gained by considering collinearity in variables and (spatio-temporal) autocorrelation effects. Unobserved heterogeneity: Since it is impossible to include all the data that could potentially determine the likelihood of a traffic accident into a statistical model, future work might focus on model formulations accounting for unobserved heterogeneity (Mannering, 2018). Knowledge-extraction and expert assessment: Tools for further assessment of black-box models, including – among others – Local Interpretable Model-Agnostic Explanations [LIME, Ribeiro et al. (2016)] and Descriptive mAchine Learning EXplanations [DALEX, Biecek (2018)] could be used for an in-depth assessment of model quality. In addition, the case-specific random forests (Xu et al., 2016), which are tailored to specific points of interest in the regressor space, could be employed to specifically assess certain road sections of interest. In addition, a comparison with similar analysis conducted in other countries might provide substantial further insights into the applicability of the proposed methodology. Overall, we hope that our findings will contribute to opening up new methodological applications of statistical learning methods in the field of road safety research.}
+      \field{annotation}{Statistical Learning}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A comparison of statistical learning methods for deriving determining factors of accident occurrence from an imbalanced high resolution dataset}
@@ -13139,6 +13184,9 @@
            given={Michael},
            giveni={M\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Louisiana State U}%
+      }
       \strng{namehash}{bf89a81ecbde4c348ccede31a23b556f}
       \strng{fullhash}{083af4cfaf0ba775b489f2c5ebc9d68f}
       \strng{bibnamehash}{083af4cfaf0ba775b489f2c5ebc9d68f}
@@ -13151,6 +13199,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In the United States, there are approximately 212,000 highway-rail grade crossings, some of which experience vehicle-train incidents that often cause a massive financial burden, loss of life, and injury. In 2017, there were 2,108 highway-rail incidents resulting in 827 injuries and 307 fatalities nationwide. To eliminate collision risks, crossing grade separation and active alarm improvement are commonly used. Moreover, crossing closures are considered to be the most effective safety improvement program. While it may be very difficult, and in some cases impossible to close crossings, there are some incentive programs that facilitate the closure process. One of these programs is a working consolidation model that aims to determine crossing closure suitability. Using details of highway-rail grade crossings in the United States and applying an eXtreme Gradient Boosting (XGboost) algorithm, this paper proposes a data-driven consolidation model that takes into consideration a number of engineering variables. The results indicated an overall accuracy of 0.991 for the proposed model. In addition, the developed XGboost consolidation model reported the relative importance of the variables input to the model, offering an in-depth understanding of the model’s behavior. Finally, for the practical implementation of the model, a simplified version containing fewer variables was developed. A sensitivity analysis was performed considering the aggregate gain and the different correlation threshold values between variables. This analysis developed a simplified model utilizing 14 variables, with aggregated gain values of 75\% and a correlation threshold of 0.9 which would perform similarly to the full model. Based on this model, 62\% of current highway-rail grade crossings should be closed.}
+      \field{addendum}{None}
+      \field{annotation}{Interesting. Thorough analysis.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A Comprehensive Railroad-Highway Grade Crossing Consolidation Model: A Machine Learning Approach}
@@ -14315,6 +14365,9 @@
            given={Yulu},
            giveni={Y\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Southeast U, Nanjing}%
+      }
       \strng{namehash}{d13ac9ce586aea9b18c1934438f2538d}
       \strng{fullhash}{d13ac9ce586aea9b18c1934438f2538d}
       \strng{bibnamehash}{d13ac9ce586aea9b18c1934438f2538d}
@@ -14327,6 +14380,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Traditional statistical crash prediction models oftentimes suffer from poor data quality and require large amount of historical data. In this paper, we propose a crash prediction method based on a bivariate extreme value theory (EVT) framework, considering both drivers’ perception-reaction failure and failure to proper evasive actions. An unmanned aerial vehicle (UAV) was utilized to collect videos of ten intersections in Fengxian, China, at representative time periods. High-resolution vehicle trajectory data were extracted by a Kanade-Lucas-Tomasi (KLT) technique, based on four detailed metrics were derived including Time-to-accident (TA), Post-encroachment Time (PET), minimum Time-to-collision (mTTC), and Maximum Deceleration Rate (MaxD). TA was expected to capture the chance of perception-reaction failure, while other three metrics were used to measure the probability of failure to proper evasive actions. Univariate EVT models were applied to obtain marginal crash probability based on each metric. Bivariate EVT models were developed to obtain joint crash probability based on three pairs: TA and mTTC, TA and PET, and TA and MaxD. Thus, union crash probability within observation periods can be derived and the annual crash frequency of each intersection was predicted. The predictions were compared to actual annual crash frequencies, using multiple tests. The findings are three-folds: 1. The best conflict metrics for angle and rear-end crash predictions were different; 2. Bivariate EVT models were found to be superior to univariate models, regarding both angle and rear-end crash predictions; 3. TA appeared to be an important conflict metric that should be considered in a bivariate EVT model framework. In general, the proposed method can be considered as a promising tool for safety evaluation, when crash data are limited.}
+      \field{annotation}{Not ML}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A crash prediction method based on bivariate extreme value theory and video-based vehicle trajectory data}
@@ -14658,6 +14712,9 @@
            given={Bingbing},
            giveni={B\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Tsinghua U}%
+      }
       \strng{namehash}{ad58150623a4ce6fd8c2aca8c0f1567f}
       \strng{fullhash}{d25553c3bef83f5e9d0a86936deaf0e9}
       \strng{bibnamehash}{d25553c3bef83f5e9d0a86936deaf0e9}
@@ -14671,6 +14728,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Accurate real-time prediction of occupant injury severity in unavoidable collision scenarios is a prerequisite for enhancing road traffic safety with the development of highly automated vehicles. Specifically, a safety prediction model provides a decision reference for the trajectory planning system in the pre-crash phase and the adaptive restraint system in the in-crash phase. The main goal of the current study is to construct a data-driven, vehicle kinematic feature-based model to realize accurate and near real-time prediction of in-vehicle occupant injury severity. A large-scale numerical database was established focusing on occupant kinetics. A first-step deep-learning model was established to predict occupant kinetics and injury severity using a convolutional neural network (CNN). To reduce the computational time for real-time application, the second step was to extract simplified kinematic features from vehicle crash pulses via a feature extraction method, which was inspired by a visualization approach applied to the CNN-based model. The features were incorporated with a low-complexity machine-learning algorithm and achieved satisfactory accuracy (85.4 \% on the numerical database, 78.7 \% on a 192-case real-world dataset) and decreased computational time (1.2 ± 0.4 ms) on the prediction tasks. This study demonstrated the feasibility of using data-driven and feature-based approaches to achieve accurate injury risk estimation prior to collision. The proposed model is expected to provide a decision reference for integrated safety systems in the next generation of automated vehicles.}
+      \field{addendum}{None}
+      \field{annotation}{Interesting. Numerical database of simulations.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A data-driven, kinematic feature-based, near real-time algorithm for injury severity prediction of vehicle occupants}
@@ -16350,6 +16409,9 @@
            given={Junhua},
            giveni={J\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Tongji U, Shanghai}%
+      }
       \strng{namehash}{5154e68c0999c3d8379f8364c09574fe}
       \strng{fullhash}{dab76ee7452631d7bacff96673e686cb}
       \strng{bibnamehash}{dab76ee7452631d7bacff96673e686cb}
@@ -16363,6 +16425,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Given the severe traffic safety issue, tremendous efforts have been devoted to identify the crash contributing factors for developing and implementing safety improvement countermeasures. According to the study findings, driving behaviors have attributed to the majority crash occurrence, among which inadequate driving capability is a key factor. Therefore, a number of studies have been conducted for developing techniques associated with the driving capability assessment and its various improvement. However, the conventional assessment approaches, such as driving license exams and vehicle insurance quotes, have only focused on basic driving skill evaluations or aggregated driving style classifications, which failed to quantify driving capability from the safety perspective with respect to the complex driving scenarios. In this study, a novel longitudinal driving capacity assessment and ranking approach was developed with naturalistic driving data. Two Responsibility-Sensitive Safety (RSS) based driving capability indicators from the perspectives of risk exposure and severity were first proposed. Then, Bayesian Tobit quantile regression (BTQR) models were introduced to explore the relationships between driving capability indicators with trip level characteristics from the aspects of travel features, operational conditions, and roadway characteristics. The modeling results concluded that nighttime driving and higher average speed would lead to higher longitudinal collision risk and its severity. Besides, the BTQR models have provided varying factors significances among different quantile levels, for instance, driving duration is only significant at high quantiles for the driving capability indicators, implying that duration only affects drivers with large longitudinal risk exposures and strong close following tendencies. Furthermore, the case studies provided how to deploy the developed model to obtain the relative longitudinal driving capability rankings. Finally, the model applications from the aspects of commercial fleet safety management and comparing the autonomous vehicles’ longitudinal driving behaviors with human drivers have been discussed.}
+      \field{annotation}{Not ML}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A Bayesian Tobit quantile regression approach for naturalistic longitudinal driving capability assessment}
@@ -16808,6 +16871,9 @@
            given={Xiangbin},
            giveni={X\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Tsinghua U}%
+      }
       \strng{namehash}{7d8b5ed3302ce89c9e74993b44c69ac1}
       \strng{fullhash}{1ed8ee64c82a53431f690141a5ed92b3}
       \strng{bibnamehash}{1ed8ee64c82a53431f690141a5ed92b3}
@@ -16820,6 +16886,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The autonomous vehicle is regarded as a promising technology with the potential to reshape mobility and solve many traffic issues, such as accessibility, efficiency, convenience, and especially safety. Many previous studies on driving strategies mainly focused on the low-level detailed driving behaviors or specific traffic scenarios but lacked the high-level driving strategy studies. Though researchers showed increasing interest in driving strategies, there still has no comprehensive answer on how to proactively implement safe driving. After analyzing several representative driving strategies, we propose three characteristic dimensions that are important to measure driving strategies: preferred objective, risk appetite, and collaborative manner. According to these three characteristic dimensions, we categorize existing driving strategies of autonomous vehicles into four kinds: defensive driving strategies, competitive driving strategies, negotiated driving strategies, and cooperative driving strategies. This paper provides a timely comparative review of these four strategies and highlights the possible directions for improving the high-level driving strategy design.}
+      \field{addendum}{We believe that future research should focus on the following valuable directions: 1) Limited by the level of hardware and algorithm, there is still much room for improvement in the accuracy and range of the current perception system. Therefore, as the latter segment of perception, the driving strategies of AVs need to be designed specifically based on some limitations and assumptions of perception, and hence cannot solve all problems in a generic way. 2) The current driving strategies are based on an indispensable assumption of using identical technical equipment and the same control strategy for all vehicles (Geiger et al., 2012). However, due to the inconsistency of interpretation models and preferred objectives, different AVs may have different understandings and responses to the same scenarios. When they lack necessary communication or communication channels are disturbed, their misunderstandings and misjudgments will become a new trigger to danger. Therefore, how to formulate a framework to ensure that AVs with different driving strategies still can reach consensus is an urgent issue for future researchers. 3) So far, research on risk appetite, the feature closely related to safety, is still insufficient and deserves further advancement. Especially, how should the risk appetite of different strategies be tested, evaluated, and quantified. In consideration of the long-tail problem, how to design simulation tests to reflect the risk appetite of the strategies accurately (Li et al., 2016, 2018a; Li et al., 2019a,b). 4) Future research should focus more on communication and collaboration between vehicles. For collaboration with other AVs, the unification of communication rules and protocols should be accelerated, to form a standardized and extensible inter-vehicle communication mechanism. 5) For collaboration with human-driven vehicles, we should further construct human driver models from the cognitive level rather than the behaviors itself (Efrati, 2018; Stewart, 2018; Ma et al., 2010; Schwarting et al., 2019; Li et al., 2018b; Michon, 1985). It can help massively to develop a more reasonable collaborative driving strategy and improve the probability of understanding each other correctly when AVs interact with human-driven vehicles. 6) In the next step, researchers should pay more attention to TPACC and explore the possibility of combining it with collaborative driving. It is a meaningful work to accurately compare the individual benefits and the overall benefits through theoretical calculations or simulation tests. 7) The purpose of this paper is to draw attention of researchers towards these important directions. We expect more exciting results will be obtained soon.}
+      \field{annotation}{Not ML}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A comparative study of state-of-the-art driving strategies for autonomous vehicles}

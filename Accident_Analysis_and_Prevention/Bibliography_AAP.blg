@@ -1,20 +1,20 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
 [0] Config.pm:307> INFO - Logfile is 'Bibliography_AAP.blg'
-[60] biber-darwin:322> INFO - === Wed May  5, 2021, 15:49:15
-[75] Biber.pm:415> INFO - Reading 'Bibliography_AAP.bcf'
-[185] Biber.pm:940> INFO - Using all citekeys in bib section 0
-[197] Biber.pm:4256> INFO - Processing section 0
-[197] Utils.pm:75> INFO - Globbing data source 'Accident_Analysis_and_Prevention.bib'
-[197] Utils.pm:91> INFO - Globbed data source 'Accident_Analysis_and_Prevention.bib' to Accident_Analysis_and_Prevention.bib
-[205] Biber.pm:4455> INFO - Looking for bibtex format file 'Accident_Analysis_and_Prevention.bib' for section 0
-[249] bibtex.pm:1653> INFO - LaTeX decoding ...
-[1251] bibtex.pm:1471> INFO - Found BibTeX data source 'Accident_Analysis_and_Prevention.bib'
-[1287] Utils.pm:304> WARN - Duplicate entry key: '1984152' in file 'Accident_Analysis_and_Prevention.bib', skipping ...
-[2988] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2988] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2988] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
-[2988] Biber.pm:4084> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
-[2988] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[3324] bbl.pm:652> INFO - Writing 'Bibliography_AAP.bbl' with encoding 'UTF-8'
-[3580] bbl.pm:755> INFO - Output to Bibliography_AAP.bbl
-[3581] Biber.pm:128> INFO - WARNINGS: 1
+[62] biber-darwin:322> INFO - === Thu May  6, 2021, 19:03:58
+[77] Biber.pm:415> INFO - Reading 'Bibliography_AAP.bcf'
+[186] Biber.pm:940> INFO - Using all citekeys in bib section 0
+[198] Biber.pm:4256> INFO - Processing section 0
+[198] Utils.pm:75> INFO - Globbing data source 'Accident_Analysis_and_Prevention.bib'
+[198] Utils.pm:91> INFO - Globbed data source 'Accident_Analysis_and_Prevention.bib' to Accident_Analysis_and_Prevention.bib
+[207] Biber.pm:4455> INFO - Looking for bibtex format file 'Accident_Analysis_and_Prevention.bib' for section 0
+[254] bibtex.pm:1653> INFO - LaTeX decoding ...
+[1254] bibtex.pm:1471> INFO - Found BibTeX data source 'Accident_Analysis_and_Prevention.bib'
+[1290] Utils.pm:304> WARN - Duplicate entry key: '1984152' in file 'Accident_Analysis_and_Prevention.bib', skipping ...
+[2931] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2931] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[2931] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2931] Biber.pm:4084> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[2931] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[3261] bbl.pm:652> INFO - Writing 'Bibliography_AAP.bbl' with encoding 'UTF-8'
+[3518] bbl.pm:755> INFO - Output to Bibliography_AAP.bbl
+[3519] Biber.pm:128> INFO - WARNINGS: 1
