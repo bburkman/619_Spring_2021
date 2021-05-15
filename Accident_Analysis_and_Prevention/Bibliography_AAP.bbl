@@ -1079,6 +1079,9 @@
            given={Satish\bibnamedelima V.},
            giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Southeast University (Nanjing), Purdue U}%
+      }
       \strng{namehash}{fd47ae867b926f782af187f4bad3be05}
       \strng{fullhash}{fd47ae867b926f782af187f4bad3be05}
       \strng{bibnamehash}{fd47ae867b926f782af187f4bad3be05}
@@ -1091,6 +1094,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The primary objective of this study is to investigate how the deep learning approach contributes to citywide short-term crash risk prediction by leveraging multi-source datasets. This study uses data collected from Manhattan in New York City to illustrate the procedure. The following multiple datasets are collected: crash data, large-scale taxi GPS data, road network attributes, land use features, population data and weather data. A spatiotemporal convolutional long short-term memory network (STCL-Net) is proposed for predicting the citywide short-term crash risk. A total of nine prediction tasks are conducted and compared, including weekly, daily and hourly models with 8 × 3, 15 × 5 and 30 × 10 grids, respectively. The results suggest that the prediction performance of the proposed model decreases as the spatiotemporal resolution of prediction task increases. Moreover, four commonly-used econometric models, and four state-of-the-art machine-learning models are selected as benchmark methods to compare with the proposed STCL-Net for all the crash risk prediction tasks. The comparative analyses suggest that in general the proposed STCL-Net outperforms the benchmark methods for different crash risk prediction tasks in terms of higher prediction accuracy rate and lower false alarm rate. The results verify that the proposed spatiotemporal deep learning approach performs better at capturing the spatiotemporal characteristics for the citywide short-term crash risk prediction. In addition, the comparative analyses also reveal that econometric models perform better than machine-learning models in weekly crash risk prediction tasks, while they exhibit worse results than machine-learning models in daily crash risk prediction tasks. The results can potentially guide transportation safety engineers to select appropriate methods for different crash risk prediction tasks.}
+      \field{addendum}{[Get more data, and] Moreover, new spatiotemporal deep learning architecture should also be explored to addressing the zero-inflated issue.}
+      \field{annotation}{Perhaps interesting for comparing econometric and ML models.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A spatiotemporal deep learning approach for citywide short-term crash risk prediction with multi-source data}
@@ -2253,6 +2258,9 @@
            given={Richard},
            giveni={R\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {U of Nottingham, U of Warwick, Unilever Research}%
+      }
       \strng{namehash}{837c4e379dcf63269fc5b2efb5a673f5}
       \strng{fullhash}{837c4e379dcf63269fc5b2efb5a673f5}
       \strng{bibnamehash}{837c4e379dcf63269fc5b2efb5a673f5}
@@ -2266,6 +2274,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In-depth studies of behavioral factors in road accidents using conventional methods are often inconclusive and costly. In a series of studies exploring alternative approaches, 200 cross-flow junction road accidents were sampled from the files of Nottinghamshire Constabulary, England, coded for computer analysis using a specially devised ‘Traffic Related Action Analysis Language’, and then examined using different computational and statistical techniques. For comparison, the same analyses were also carried out on 100 descriptions of safe turns, and 100 descriptions of hypothetical accidents provided by experienced drivers. The present study used statistical methods to explore the database of cases. The youngest and oldest groups of drivers were found to be over-represented in the junction accidents, and were the least likely to stop before turning. The young drivers had particular problems turning onto major roads. Women were more likely than men to stop before turning; they tended to have their collisions with other women; and they were under-represented as drivers of the non-turning vehicle. In hypothetical accidents, informants tended to blame the younger driver, increasingly so for male informants as they got older. Female informants tended to blame male drivers.}
+      \field{annotation}{Not ML}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{number}{4}
@@ -6015,6 +6024,9 @@
            given={Geetam},
            giveni={G\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Indian Institute of Technology}%
+      }
       \strng{namehash}{e2f078776d19fc10f00f932eb132b5de}
       \strng{fullhash}{e2f078776d19fc10f00f932eb132b5de}
       \strng{bibnamehash}{e2f078776d19fc10f00f932eb132b5de}
@@ -6027,6 +6039,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Road accidents are globally accepted challenges. They are one of the significant causes of deaths and injuries besides other direct and indirect losses. Countries and international organizations have designed technologies, systems, and policies to prevent accidents. However, hit-and-run accidents remain one of the most dangerous types of road accidents as the information about the vehicle responsible for the accident remain unknown. Therefore, any mechanism which can provide information about the impacting vehicle in hit-and-run accidents will be useful in planning and executing preventive measures to address this road menace. Since there exist several models to predict the impacting unknown vehicle, it becomes important to find which is the most accurate amongst those available. This research applies a process-based approach that identifies the most accurate model out of six supervised learning classification models viz. Logistic Reasoning, Linear Discriminant Analysis, Naïve Bayes, Classification and Regression Trees, k-Nearest Neighbor and Support Vector Machine. These models are implemented using five-fold and ten-fold cross validation, on road accident data collected from five mid-sized Indian cities: Agra, Amritsar, Bhopal, Ludhiana, and Vizag (Vishakhapatnam).This study investigates the possible input factors that may have effect on the performance of applied models. Based on the results of the experiment conducted in this study, Support Vector Machine has been found to have the maximum potentiality to predict unknown impacting vehicle type in hit-and-run accidents for all the cities except Amritsar. The result indicates that, Classification and Regression Trees have maximum accuracy, for Amritsar. Naïve Bayes performed very poorly for the five cities. These recommendations will help in predicting unknown impacting vehicles in hit-and-run accidents. The outcome is useful for transportation authorities and policymakers to implement effective road safety measures for the safety of road users.}
+      \field{addendum}{The work can be extended by applying other classification and regression models, such as self-organizing maps, random forest, neural networks, clustering techniques, rough sets and deep learning techniques.}
+      \field{annotation}{Nothing new. We did a thing.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A performance analysis of prediction techniques for impacting vehicles in hit-and-run road accidents}
@@ -6357,6 +6371,9 @@
            given={Wen-Hua},
            giveni={W\bibinithyphendelim H\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Loughborough U}%
+      }
       \strng{namehash}{d9782461f6bc4a0597e902d02df65b2c}
       \strng{fullhash}{d9782461f6bc4a0597e902d02df65b2c}
       \strng{bibnamehash}{d9782461f6bc4a0597e902d02df65b2c}
@@ -6369,6 +6386,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Real-time risk assessment of autonomous driving at tactical and operational levels is extremely challenging since both contextual and circumferential factors should concurrently be considered. Recent methods have started to simultaneously treat the context of the traffic environment along with vehicle dynamics. In particular, interaction-aware motion models that take inter-vehicle dependencies into account by utilizing the Bayesian interference are employed to mutually control multiple factors. However, communications between vehicles are often assumed and the developed models are required many parameters to be tuned. Consequently, they are computationally very demanding. Even in the cases where these desiderata are fulfilled, current approaches cannot cope with a large volume of sequential data from organically changing traffic scenarios, especially in highly complex operational environments such as dense urban areas with heterogeneous road users. To overcome these limitations, this paper develops a new risk assessment methodology that integrates a network-level collision estimate with a vehicle-based risk estimate in real-time under the joint framework of interaction-aware motion models and Dynamic Bayesian Networks (DBN). Following the formulation and explanation of the required functions, machine learning classifiers were utilized for the real-time network-level collision prediction and the results were then incorporated into the integrated DBN model for predicting collision probabilities in real-time. Results indicated an enhancement of the interaction-aware model by up to 10\%, when traffic conditions are deemed as collision-prone. Hence, it was concluded that a well-calibrated collision prediction classifier provides a crucial hint for better risk perception by autonomous vehicles.}
+      \field{addendum}{None}
+      \field{annotation}{Perhaps Interesting. I think they combined two types of data in the analysis.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A new integrated collision risk assessment methodology for autonomous vehicles}
@@ -7114,6 +7133,9 @@
            given={Prasad},
            giveni={P\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Ecole Polytechnique Fédérale de Lausanne, Imperial College London, UT Austin}%
+      }
       \strng{namehash}{f2d0c632ad58274e2117de344e212841}
       \strng{fullhash}{f2d0c632ad58274e2117de344e212841}
       \strng{bibnamehash}{f2d0c632ad58274e2117de344e212841}
@@ -7126,6 +7148,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The identification of accident hot spots is a central task of road safety management. Bayesian count data models have emerged as the workhorse method for producing probabilistic rankings of hazardous sites in road networks. Typically, these methods assume simple linear link function specifications, which, however, limit the predictive power of a model. Furthermore, extensive specification searches are precluded by complex model structures arising from the need to account for unobserved heterogeneity and spatial correlations. Modern machine learning (ML) methods offer ways to automate the specification of the link function. However, these methods do not capture estimation uncertainty, and it is also difficult to incorporate spatial correlations. In light of these gaps in the literature, this paper proposes a new spatial negative binomial model which uses Bayesian additive regression trees to endogenously select the specification of the link function. Posterior inference in the proposed model is made feasible with the help of the Pólya-Gamma data augmentation technique. We test the performance of this new model on a crash count data set from a metropolitan highway network. The empirical results show that the proposed model performs at least as well as a baseline spatial count data model with random parameters in terms of goodness of fit and site ranking ability.}
+      \field{addendum}{None ML-related}
+      \field{annotation}{Not ML}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A new spatial count data model with Bayesian additive regression trees for accident hot spot identification}
@@ -8392,6 +8416,9 @@
            given={Adel\bibnamedelima W.},
            giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {SUNY Buffalo}%
+      }
       \strng{namehash}{d55146fc15b379cdc4e980ffbe532ebe}
       \strng{fullhash}{d55146fc15b379cdc4e980ffbe532ebe}
       \strng{bibnamehash}{d55146fc15b379cdc4e980ffbe532ebe}
@@ -8404,6 +8431,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The duration of freeway traffic accidents duration is an important factor, which affects traffic congestion, environmental pollution, and secondary accidents. Among previous studies, the M5P algorithm has been shown to be an effective tool for predicting incident duration. M5P builds a tree-based model, like the traditional classification and regression tree (CART) method, but with multiple linear regression models as its leaves. The problem with M5P for accident duration prediction, however, is that whereas linear regression assumes that the conditional distribution of accident durations is normally distributed, the distribution for a “time-to-an-event” is almost certainly nonsymmetrical. A hazard-based duration model (HBDM) is a better choice for this kind of a “time-to-event” modeling scenario, and given this, HBDMs have been previously applied to analyze and predict traffic accidents duration. Previous research, however, has not yet applied HBDMs for accident duration prediction, in association with clustering or classification of the dataset to minimize data heterogeneity. The current paper proposes a novel approach for accident duration prediction, which improves on the original M5P tree algorithm through the construction of a M5P-HBDM model, in which the leaves of the M5P tree model are HBDMs instead of linear regression models. Such a model offers the advantage of minimizing data heterogeneity through dataset classification, and avoids the need for the incorrect assumption of normality for traffic accident durations. The proposed model was then tested on two freeway accident datasets. For each dataset, the first 500 records were used to train the following three models: (1) an M5P tree; (2) a HBDM; and (3) the proposed M5P-HBDM, and the remainder of data were used for testing. The results show that the proposed M5P-HBDM managed to identify more significant and meaningful variables than either M5P or HBDMs. Moreover, the M5P-HBDM had the lowest overall mean absolute percentage error (MAPE).}
+      \field{addendum}{For future research, one possible idea to investigate, involvescombining the M5P tree algorithm with a random parameter HBDM.This may further improve accident duration prediction, by allowingthe coefficients of the variables in the model to vary across eachindividual observation in the dataset. Another possible idea is totest the transferability of M5P-HBDM by building a unique modelfor two or more datasets.}
+      \field{annotation}{Not ML}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A combined M5P tree and hazard-based duration model for predicting urban freeway traffic accident durations}
@@ -9295,6 +9324,9 @@
            given={Xiaobo},
            giveni={X\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {National University of Singapore}%
+      }
       \strng{namehash}{35a6a69bd30d1a9770578b7a7c5fd4c9}
       \strng{fullhash}{35a6a69bd30d1a9770578b7a7c5fd4c9}
       \strng{bibnamehash}{35a6a69bd30d1a9770578b7a7c5fd4c9}
@@ -9307,6 +9339,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Work zones especially long-term work zones increase traffic conflicts and cause safety problems. Proper casualty risk assessment for a work zone is of importance for both traffic safety engineers and travelers. This paper develops a novel probabilistic quantitative risk assessment (QRA) model to evaluate the casualty risk combining frequency and consequence of all accident scenarios triggered by long-term work zone crashes. The casualty risk is measured by the individual risk and societal risk. The individual risk can be interpreted as the frequency of a driver/passenger being killed or injured, and the societal risk describes the relation between frequency and the number of casualties. The proposed probabilistic QRA model consists of the estimation of work zone crash frequency, an event tree and consequence estimation models. There are seven intermediate events – age (A), crash unit (CU), vehicle type (VT), alcohol (AL), light condition (LC), crash type (CT) and severity (S) – in the event tree. Since the estimated value of probability for some intermediate event may have large uncertainty, the uncertainty can thus be characterized by a random variable. The consequence estimation model takes into account the combination effects of speed and emergency medical service response time (ERT) on the consequence of work zone crash. Finally, a numerical example based on the Southeast Michigan work zone crash data is carried out. The numerical results show that there will be a 62\% decrease of individual fatality risk and 44\% reduction of individual injury risk if the mean travel speed is slowed down by 20\%. In addition, there will be a 5\% reduction of individual fatality risk and 0.05\% reduction of individual injury risk if ERT is reduced by 20\%. In other words, slowing down speed is more effective than reducing ERT in the casualty risk mitigation.}
+      \field{addendum}{None}
+      \field{annotation}{Not ML; data set too small.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{number}{6}
@@ -11129,6 +11163,9 @@
            given={J.},
            giveni={J\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Indian Institute of Technology Kharagpur, University of Edinburgh}%
+      }
       \strng{namehash}{a489a3e7f15b9094e14b9542e225ffa3}
       \strng{fullhash}{a489a3e7f15b9094e14b9542e225ffa3}
       \strng{bibnamehash}{a489a3e7f15b9094e14b9542e225ffa3}
@@ -11141,6 +11178,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this study, a conceptual framework is proposed for the development of a video surveillance-based system for improving road safety. Based on the framework, a set of algorithms are developed which are capable of detecting various traffic pre-events from traffic videos, such as speed violation, one-way traffic, overtaking, illegal parking, and wrong drop-off location of passengers. After detecting the pre-events, an alarm will be automatically generated in the control room which helps to take precautionary measures to avoid any potential mishap on road, thereby, improving the road safety. In previous studies, a single system can handle either one or two pre-events. Whereas, in our present study, five anomalies can be detected in a single system using five different algorithms. Our study further contributes to the detection of “wrong drop-off location of passengers”. The effectiveness of the developed algorithms is demonstrated over 132 traffic videos acquired from an integrated plant in India. Some additional comparative studies for overtaking and illegal parking are done using two benchmark datasets, namely ‘CamSeq01’ and ‘ISLab-PVD’. Through an extensive study, it can be concluded that our developed algorithms are superior to some state-of-the-art algorithms in the detection of pre-events on road.}
+      \field{addendum}{As a future scope, a framework can be developed which can address both monocular and stereo vision in traffic pre-event detection.}
+      \field{annotation}{Video detection of pre-events, especially wrong drop-off location of passengers. Used ML to analyze videos.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A real-time video surveillance system for traffic pre-events detection}
@@ -11158,7 +11197,7 @@
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/pii/S0001457521000506
       \endverb
-      \keyw{Pre-event analysis,Anomaly detection,Video surveillance system,Road safety}
+      \keyw{Pre-event analysis,Anomaly detection,Video surveillance system,Road safety,CamSeq01,ISLab-PVD}
     \endentry
     \entry{PUTNAM2015244}{article}{}
       \name{author}{5}{}{%
@@ -13655,6 +13694,9 @@
            given={Dongjoo},
            giveni={D\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {U of Seoul}%
+      }
       \strng{namehash}{3cdf5f6a648bd6b795d7f6adc5ced530}
       \strng{fullhash}{3cdf5f6a648bd6b795d7f6adc5ced530}
       \strng{bibnamehash}{3cdf5f6a648bd6b795d7f6adc5ced530}
@@ -13667,6 +13709,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The consequences of crashes, including injury, loss of lives, and damage to properties, are further worsened when buses plying expressways are involved in the crash. Previous studies have separately analyzed crash severity in terms of monetary cost, injuries and loss of lives, and the size of crashes in terms of the number of vehicles involved. However, as both outcome variables are correlated, it is imperative to perform a combined analysis using an appropriate econometric model to achieve a better model fit. This study contributes to the literature by jointly exploring the factors influencing the severity and size of express bus-involved crashes that occur on expressways and characterizes the dependence between both outcome variables by employing a more plausible copula regression framework. Likelihood ratio tests were also conducted to investigate the temporal stability of the factors that affect both crash severity and size. Based on the goodness-of-fit statistics, the Frank copula model proved superior to the independent ordered probit model. The estimate of the underlying dependence between the outcome variables provided a better comprehension of the correlation between them. Temporal instability was detected for the individual parameters in the models and is attributed to the changing driving behavior due to the heightened road safety campaigns. The results suggest that traffic exposure measures are significantly associated with a higher propensity of observing increased bus crash severity and size. Insights into the factors influencing the size and severity of express bus crashes are discussed, and appropriate engineering, enforcement, and education-related countermeasures are proposed.}
+      \field{addendum}{In the future, it would be interesting to identify which subsets of crash populations that show temporal stability/instability. It would also be worthwhile to employ machine learning algorithms to identify important rules that show a set of factors leading to bus-involved crashes, especially at mainline sections where crashes are usually severe.}
+      \field{annotation}{Not ML}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A copula-based approach for jointly modeling crash severity and number of vehicles involved in express bus crashes on expressways considering temporal stability of data}
@@ -17200,6 +17244,9 @@
            given={George},
            giveni={G\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {National Technical University of Athens}%
+      }
       \strng{namehash}{0a849e68526232d2b0e5d89abcead96b}
       \strng{fullhash}{0a849e68526232d2b0e5d89abcead96b}
       \strng{bibnamehash}{0a849e68526232d2b0e5d89abcead96b}
@@ -17212,6 +17259,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Spatial analyses of crashes have been adopted in road safety for decades in order to determine how crashes are affected by neighboring locations, how the influence of parameters varies spatially and which locations warrant interventions more urgently. The aim of the present research is to critically review the existing literature on different spatial approaches through which researchers handle the dimension of space in its various aspects in their studies and analyses. Specifically, the use of different areal unit levels in spatial road safety studies is investigated, different modelling approaches are discussed, and the corresponding study design characteristics are summarized in respective tables including traffic, road environment and area parameters and spatial aggregation approaches. Developments in famous issues in spatial analysis such as the boundary problem, the modifiable areal unit problem and spatial proximity structures are also discussed. Studies focusing on spatially analyzing vulnerable road users are reviewed as well. Regarding spatial models, the application, advantages and disadvantages of various functional/econometric approaches, Bayesian models and machine learning methods are discussed. Based on the reviewed studies, present challenges and future research directions are determined.}
+      \field{annotation}{Interesting. Essential. This article will give me an overview of the vocabulary, techniques, and issues.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{A review of spatial approaches in road safety}
