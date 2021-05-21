@@ -670,6 +670,9 @@
            given={M.},
            giveni={M\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Ege U, U of Central Florida}%
+      }
       \strng{namehash}{ed130ae646ed46ae9376d52b9166ca45}
       \strng{fullhash}{0a82a50411e678de599d3b3cd3b26e46}
       \strng{bibnamehash}{0a82a50411e678de599d3b3cd3b26e46}
@@ -682,6 +685,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Pedestrians confront risky situations at midblock sections due to the unyielding behavior of drivers. Thus, pedestrians have to wait for an appropriate gap to cross. This research investigates pedestrians’ gap acceptance and crossing speed for midblock crossings by image processing methods in Izmir, Turkey. A total of 498 pedestrians have been tracked at two midblock crossings. The data were collected for one hour at each midblock crossing during the evening peak hour between 5.00–6.00 p.m. Three synchronized cameras were used to record pedestrian crossings. Then, by using image processing, vehicle and pedestrian trajectories have been obtained. Two cameras were mounted on telescopic tripods reaching up to 9 m, and the third camera was used to identify pedestrians’ gender better. The parameters extracted from the recordings are; pedestrians’ gender, group size, whether they carried items or not, and their accepted/rejected gaps. Pedestrian and item detection has been performed by YOLOv3 and YOLACT models. The accepted and rejected time gaps were extracted for pedestrians, excluding the pedestrians who crossed between stopped vehicles and crossed when an approaching vehicle did not exist within 100 m from the midblock crossing. Raff’s method was used to estimate the critical gap using accepted/rejected gaps. The critical gaps ranged between 4.1 s and 6.2 s. The 15th percentile crossing speeds were found to be similar, ranging between 0.78 m/s and 0.80 m/s.}
+      \field{annotation}{Not our data. Image processing}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Evaluation of pedestrian critical gap and crossing speed at midblock crossing using image processing}
@@ -4114,6 +4118,9 @@
            given={Pertti},
            giveni={P\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {U of Jyväskylä}%
+      }
       \strng{namehash}{d97eb0fc1bb7f987086bc82567347a24}
       \strng{fullhash}{781e25e14edf608753c930c77bd85b62}
       \strng{bibnamehash}{781e25e14edf608753c930c77bd85b62}
@@ -4126,6 +4133,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Current automated driving technology cannot cope in numerous conditions that are basic daily driving situations for human drivers. Previous studies show that profound understanding of human drivers’ capability to interpret and anticipate traffic situations is required in order to provide similar capacities for automated driving technologies. There is currently not enough a priori understanding of these anticipatory capacities for safe driving applicable to any given driving situation. To enable the development of safer, more economical, and more comfortable automated driving experience, expert drivers’ anticipations and related uncertainties were studied on public roads. First, driving instructors’ expertise in anticipating traffic situations was validated with a hazard prediction test. Then, selected driving instructors drove in real traffic while thinking aloud anticipations of unfolding events. The results indicate sources of uncertainty and related adaptive and social behaviors in specific traffic situations and environments. In addition, the applicability of these anticipatory capabilities to current automated driving technology is discussed. The presented method and results can be utilized to enhance automated driving technologies by indicating their potential limitations and may enable improved situation awareness for automated vehicles. Furthermore, the produced data can be utilized for recognizing such upcoming situations, in which the human should take over the vehicle, to enable timely take-over requests.}
+      \field{annotation}{Not ML, Not our data.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Expert Drivers’ Prospective Thinking-Aloud to Enhance Automated Driving Technologies – Investigating Uncertainty and Anticipation in Traffic}
@@ -5378,6 +5386,9 @@
            given={Xiong},
            giveni={X\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Case Western Reserve U}%
+      }
       \strng{namehash}{44c0f2e718b7e293ab70852197c1e068}
       \strng{fullhash}{44c0f2e718b7e293ab70852197c1e068}
       \strng{bibnamehash}{44c0f2e718b7e293ab70852197c1e068}
@@ -5390,6 +5401,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Traditional methods for identifying crash-prone roadways are mainly based on historical crash data. It usually requires more than three years to collect a sufficient amount of dataset for road safety assessment. However, the emerging connected vehicles (CVs) technology generates rich instantaneous information, which can be used to identify dangerous road sections proactively. Information about the identified crash-prone intersections can be shared with the surrounding vehicles via CVs communication technology to promote cautious driving behaviors; in the longer term, such information will guide the implementation of countermeasures to prevent potential crashes. This study proposed a deep-learning based method to predict the risk level at intersections based on CVs data from the Michigan Safety Pilot program and historical traffic and intersection crash data in areas around Ann Arbor, Michigan, USA. One month of data by CVs at intersections were used for analyses, which accounts for about 3\%–12\% of overall trips. The risk levels of 774 intersections (i.e., low, medium and high risk) are determined by the annual crash rates. Feature extraction process is applied to both CV’s data and traffic data at each intersection and 24 features are extracted. Two black-box deep-learning models, multi-layer perceptron (MLP) and convolutional neural network (CNN) are trained with the extracted features. A number of hyperparameters that affect prediction performance are fine-tuned using Bayesian optimization algorithm for each model. The performance of the two deep learning models, which are black-box models, were also compared with a decision tree model, a white-box type of simple machine learning model. The results showed that the accuracies of deep learning (DL) models were slightly better (both over 90 \%) than the decision tree model (about 87 \%). This indicated that the DL models were capable of uncover the inherent complexity from the dataset and therefore provided higher accuracy than the traditional machine learning model. CNN model achieves slightly higher accuracy (93.8 \%) and is recommended as the classifier to predict the risk level at intersections in practice. The interpretability analysis of the CNN model is conducted to confirm the validity of the model. This study shows that combination of CVs data (V2V and V2I) and deep learning networks (i.e. MLP and CNN used in this paper) is promising to determine crash risks at intersections with high time efficiency and at low CV penetration rates, which help to deploy countermeasures to reduce the crash rates and resolve traffic safety problems.}
+      \field{annotation}{Not our data. Connected vehicle data. Interesting for clear description of method.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Efficient mapping of crash risk at intersections with connected vehicle data and deep learning models}
@@ -7006,6 +7018,9 @@
            given={Gil},
            giveni={G\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {U of Haifa}%
+      }
       \strng{namehash}{c78b1a1aa6040759a13f521fdbffa62e}
       \strng{fullhash}{c78b1a1aa6040759a13f521fdbffa62e}
       \strng{bibnamehash}{c78b1a1aa6040759a13f521fdbffa62e}
@@ -7018,6 +7033,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction This study examines the relationship between two variables–mindfulness and income–with regards to their relationship to the use of smartphones by young drivers, which has been known to increase the likelihood of car accidents, endangering young drivers and other road users. The study focuses on the relationship between these variables and the use of smartphones while driving, and how this relationship differs between males and females. Method The study sample included 221 young drivers who were legally permitted to drive without supervision. The subjects were first asked to complete questionnaires on mindfulness and income. Next, their smartphone use while driving was monitored over a one-month period. This study is unique as it used an objective smartphone monitoring application (rather than self-reporting) to count the number of times the young participants actually touched their smartphones while driving. Results The findings show that the effects of social and personal factors (i.e., income and mindfulness) on the use of smartphones while driving are significant for males but not for females. Conclusions Most studies that investigate differences between males and females with respect to safety focus on differences in the averages of safety-related variables (such as safety performance and outcomes). In the current study, however, we identified differences in relationships between variables and demonstrated that what predicts safety-related behavior in males may not be a good predictor for females. Practical applications Mindfulness and income can be used to identify male populations that are at risk of using smartphones while driving. Interventions that improve mindfulness can be used to reduce the use of smartphones by male drivers.}
+      \field{annotation}{Not ML. Small sample size.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Differences between males and females in the prediction of smartphone use while driving: Mindfulness and income}
@@ -7462,6 +7478,9 @@
            given={Jun-Seok},
            giveni={J\bibinithyphendelim S\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Western Michigan U}%
+      }
       \strng{namehash}{44705cb4863c97588a70b0e82abcdd1b}
       \strng{fullhash}{9c9a3c79a844d75501d438f18ae18a3f}
       \strng{bibnamehash}{9c9a3c79a844d75501d438f18ae18a3f}
@@ -7474,6 +7493,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The proliferation of digital textual archives in the transportation safety domain makes it imperative for the inventions of efficient ways of extracting information from the textual data sources. The present study aims at utilizing crash narratives complemented by crash metadata to discern the prevalence and co-occurrence of themes that contribute to crash incidents. Ten years (2009–2018) of Michigan traffic fatal crash narratives were used as a case study. The structural topic modeling (STM) and network topology analysis were used to generate and examine the prevalence and interaction of themes from the crash narratives that were mainly categorized into pre-crash events, crash locations and involved parties in the traffic crashes. The main advantage of the STM over the other topic modeling approaches is that it allows the researchers to discover themes from documents and estimate how the topic relates to the document metadata. Topics with the highest prevalence for the angle, head-on, rear-end, sideswipe and single motor vehicle crashes were crash at stop-sign, crossing the centerline, unable to stop, lane change maneuver and run-off-road crash, respectively. Eigenvector centrality measure in network topology showed that event-related topics were consistently central in articulating the crash occurrence. The centrality and association between topics varied across crash types. The efficacy of generated topics in classifying crashes by type was tested using a machine learning algorithm, Random Forest. The classification accuracy in the held-out sample ranged between 89.3 \% for sideswipe crashes to 99.2 \% for single motor vehicle crashes. High classification accuracy suggests that automation of crash typing and consistency checks can be accomplished effectively by using extracted latent themes from the crash narratives.}
+      \field{annotation}{Not our data. Text analysis of crash reports.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Discovering latent themes in traffic fatal crash narratives using text mining analytics and network topology}
@@ -7817,6 +7837,9 @@
            given={Xu},
            giveni={X\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {NC State U}%
+      }
       \strng{namehash}{0bb7acbf88fc03482907874c20eecb7c}
       \strng{fullhash}{d214b34a6924fdf83f18de0060c03ef3}
       \strng{bibnamehash}{d214b34a6924fdf83f18de0060c03ef3}
@@ -7830,6 +7853,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Driving distraction is a leading cause of fatal car accidents, and almost nine people are killed in the US each day because of distracting activities. Therefore, reducing the number of distraction-affected traffic accidents remains an imperative issue. A novel algorithm for detection of drivers’ manual distraction was proposed in this manuscript. The detection algorithm consists of two modules. The first module predicts the bounding boxes of the driver's right hand and right ear from RGB images. The second module takes the bounding boxes as input and predicts the type of distraction. 106,677 frames extracted from videos, which were collected from twenty participants in a driving simulator, were used for training (50\%) and testing (50\%). For distraction classification, the results indicated that the proposed framework could detect normal driving, using the touchscreen, and talking with a phone with F1-score 0.84, 0.69, 0.82, respectively. For overall distraction detection, it achieved F1-score of 0.74. The whole framework ran at 28 frames per second. The algorithm achieved comparable overall accuracy with similar research, and was more efficient than other methods. A demo video for the algorithm can be found at https://youtu.be/NKclK1bHRd4.}
+      \field{annotation}{Not our data. Analyzed images and videos of drivers taken from inside the driving simulator.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Detection of driver manual distraction via image-based hand and ear recognition}
@@ -8085,6 +8109,9 @@
            given={Sebastien},
            giveni={S\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Queensland U of Technology, U of Queensland}%
+      }
       \strng{namehash}{e6f21762fed4fa380288fb272e833501}
       \strng{fullhash}{50dfc0a9b0d41c58b759dcaca8a9bc5f}
       \strng{bibnamehash}{50dfc0a9b0d41c58b759dcaca8a9bc5f}
@@ -8098,6 +8125,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We have designed a new in-vehicle eco-safe driving system and shown its effectiveness in prompting drivers to execute a fuel-saving and safe driving style (Vaezipour et al., 2018, submitted for publication). However, the system could also bring potential negative outcomes, i.e. driver distraction. This simulator study investigated drivers’ glance behaviours as indicators of driver distraction when using our Eco-Safe Human-Machine-Interface (HMI). Four types of eco-safe information display conditions (baseline, advice only, feedback only, both advice and feedback) were tested on different traffic situations with varied road traffic complexity. Results showed that the eco-safe HMI system did not cause visual distraction. In contrast, the advice only or feedback only information improved forward gazing on the roadway. In addition, drivers tended to adapt their visual scanning strategies according to the traffic situations. In the car-following situation they paid longer glances to the forward roadway, while in the intersections they spent more time to look at the HMI system. The findings indicated that our eco-safe driving system improved drivers’ eco-safe behaviours and meanwhile enhanced their visual attention on road while no evidence showed that drivers were distracted by it.}
+      \field{annotation}{Not ML. Not our data.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Effects of an in-vehicle eco-safe driving system on drivers’ glance behaviour}
@@ -8145,6 +8173,9 @@
            given={Oscar},
            giveni={O\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {U of Queensland}%
+      }
       \strng{namehash}{e6f21762fed4fa380288fb272e833501}
       \strng{fullhash}{9e0d2148b4577cb963904e22003b8847}
       \strng{bibnamehash}{9e0d2148b4577cb963904e22003b8847}
@@ -8158,6 +8189,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Eco-safe driving is a promising approach to improve road safety while reducing transport emissions. The application of an eco-safe driving system is feasible with the support of vehicle-to-vehicle/infrastructure technologies. To guarantee system usability and safety appropriateness, a key precondition is to ensure that driver mental workload and visual demands required for using the system are reasonable. This study explored how drivers’ mental workload and visual demands were affected when driving with an eco-safe driving HMI (human-machine-interface). Four in-vehicle eco-safe HMI information conditions were evaluated, including baseline, advice only, feedback only, and advice \& feedback. Two traffic scenarios (stop-sign intersection with traffic vs. stop-sign intersection without traffic) were simulated using an advanced driving simulator. Behavioural variables (e.g. brake force, acceleration), visual variables (e.g. blink metrics, pupil size) and subjective workload scores were collected from 36 licensed Australian drivers. The experiment results showed that the HMI prompted drivers to apply a smooth and stable brake force when they approached the intersection and a smooth acceleration when they left the intersection. Drivers’ mental workload indicated by visual measurements were consistent with their subjective reported workload levels. Drivers had a higher mental workload when they received and processed additional eco-safe information in the advice \& feedback condition. An increase in mental workload induced by the in-vehicle cognitive task initiated more blink activities while the increase in visual demand caused by a complex road situation led to blink inhibition. The study shows the HMI could significantly promote eco-safe driving behaivours without causing excessive mental and visual workload of drivers.}
+      \field{annotation}{Not ML}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Exploring drivers’ mental workload and visual demand while using an in-vehicle HMI for eco-safe driving}
@@ -8862,6 +8894,9 @@
            given={Xiaolei},
            giveni={X\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Tsinghua U, Dalian Maritime U, Beihang U}%
+      }
       \strng{namehash}{a531cffc7dd8bc7cc7bb1268c4b0047b}
       \strng{fullhash}{81783ed492a5b3436cb8bb03fbe47a03}
       \strng{bibnamehash}{81783ed492a5b3436cb8bb03fbe47a03}
@@ -8874,6 +8909,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Bicycle wrong way riding (WWR) is a dangerous and often neglected behavior that engenders threats to traffic safety. Owing to the lack of exposure data, the detection of WWR and its relationship with the built environment (BE) factors remain unclear. Accordingly, this study fills the research gaps by proposing a WWR detection framework based on bike-sharing trajectories collected from Chengdu, China. Moreover, this study adopts Negative Binomial-based Additive Decision Tree to investigate the impacts of built environment on WWR frequencies. Results reveal that (1) WWR distribution is unaffected by different periods in a day; (2) road length is more influential than road level and road direction in WWR occurrence; (3) company, bus stop, subway station, residence, and catering facility are primary contributors affecting WWR behavior during peak hours, whereas education becomes an emerging influential variable during nonpeak hours; and most importantly, (4) these variables clearly present non-linear effects on the WWR frequencies. Therefore, geographically differentiated policies should be adopted for bicycle safety improvement.}
+      \field{annotation}{Interesting for clear description of method. Homework. Not our data}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Effects of built environment on bicycle wrong Way riding behavior: A data-driven approach}
@@ -9094,6 +9130,10 @@
            given={Shuyan},
            giveni={S\bibinitperiod}}}%
       }
+      \list{institution}{2}{%
+        {Southeast U (Nanjing), Nanjing U of Science}%
+        {Technology}%
+      }
       \strng{namehash}{5a10ac5355c2358a0b2277bdb1245e35}
       \strng{fullhash}{c716f35de22f3114185eea0be1929079}
       \strng{bibnamehash}{c716f35de22f3114185eea0be1929079}
@@ -9106,6 +9146,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{As a product of the shared economy, online car-hailing platforms can be used effectively to help maximize resources and alleviate traffic congestion. The driver’s behavior is characterized by his or her driving style and plays an important role in traffic safety. This paper proposes a novel framework to classify driving styles (defined as aggressive, normal, and cautious) based on online car-hailing data to investigate the distinct characteristics of drivers when performing various driving tasks (defined as cruising, ride requests, and drop-off) and undergoing certain maneuvers (defined as turning, acceleration, and deceleration). The proposed model is constructed based on the detection and classification of driving maneuvers using a threshold-based endpoint detection approach, principal component analysis, and k-means clustering. The driving styles that the driver exhibits for the different driving tasks are compared and analyzed based on the classified maneuvers. The empirical results for Nanjing, China demonstrate that the proposed framework can detect driving maneuvers and classify driving styles accurately. Moreover, according to this framework, driving tasks lead to variations in driving style, and the variations in driving style during the different driving tasks differ significantly for turning, acceleration, and deceleration maneuvers.}
+      \field{annotation}{Not our data.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Driving style recognition and comparisons among driving tasks based on driver behavior in the online car-hailing industry}
@@ -11225,6 +11266,9 @@
            given={Rongjie},
            giveni={R\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Tongji U}%
+      }
       \strng{namehash}{3190fbcd3328745deb71b99612a47556}
       \strng{fullhash}{470a60b85def6e8b6287314fd44a5ece}
       \strng{bibnamehash}{470a60b85def6e8b6287314fd44a5ece}
@@ -11237,6 +11281,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The Active Traffic Management (ATM) system has been widely used in the United States and the European countries to improve the traffic safety of urban expressways. The accurate real-time crash risk prediction is fundamental to the system running well. Crash data are characterized by small probability, which poses a typical Imbalanced Data Classification problem. Most previous studies mainly improved the prediction methods only in data level or algorithm level, which may be inadequate to predict the crash risk accurately especially in a continuous real-time traffic data environment. The comprehensive imbalanced classification algorithm was examined in this research to build more accurate real-time traffic crash risk prediction model. At the output level, the Youden index method has been proved to be of the best ability to divide the prediction results and Probability Calibration Method was proposed to optimize the prediction results in further. At the data level, Under-sampling and Synthetic Minority Oversampling Technique(SMOTE) methods were compared to solve the imbalanced data classification problem by changing the data distribution. At the algorithm level, the cost-sensitive MLP algorithm and Adaboost algorithm were examined and finally the random sampling cost-sensitive MLP model(RCSMLP) and Rusboost model were constructed by synthesizing the optimization methods from three levels. The sensitivity of the RCSMLP model reached 78.10 \% and the specificity of the model reached 81.44 \%. The AUC and sensitivity of the Rusboost model reached 0.892 and 0.842 while the specificity of the model reached 0.816, which shows the better performance in dealing with the imbalanced traffic crash risk prediction problem compared to existed prediction models. The proposed method of improving prediction accuracy in this study is universal and can be applied to many other prediction models to predict real-time traffic crash risk.}
+      \field{annotation}{Interesting for comparing algorithms.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Examining imbalanced classification algorithms in predicting real-time traffic crash risk}
@@ -11481,6 +11526,9 @@
            given={Xiang},
            giveni={X\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {U of Hong Kong}%
+      }
       \strng{namehash}{e4af7bef6211491cc1c66b93246e3e53}
       \strng{fullhash}{bf8f35f240010b309da9d3fbac5abbf3}
       \strng{bibnamehash}{bf8f35f240010b309da9d3fbac5abbf3}
@@ -11493,6 +11541,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Road crashes have become a leading cause of death in China. Although enormous efforts have been exerted to determine the factors that affect individual crash incidents, neighborhood-level crash incidence in Chinese cities has not been sufficiently analyzed. This study fills this gap by quantifying the effects of built environment factors on neighborhood-level automobile-involved crash density (NACD) in urban China and identifying its mediators and mediating effects. In American suburbs, urban sprawl is widely recognized to render neighborhoods unsafe for residence, thus leading to a high crash incidence. This study compares the characteristics of built environments between inner-city neighborhoods and the new neighborhoods that have been developed through China’s state-led suburbanization since 2008 to reveal how this suburbanization provides a safer neighborhood environment. A structural equation model is used to examine the relationships among suburbanization, built environment factors, and NACD in the city proper of Chengdu, the largest metropolis in southwest China. Thus, this study contributes new empirical evidence to the debates over urban designs that are safest for traffic. Moreover, this study enriches our understanding of different sociospatial consequences between American-style urban sprawl and China’s state-led suburbanization.}
+      \field{annotation}{Not ML}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Effects of state-led suburbanization on traffic crash density in China: Evidence from the Chengdu City Proper}
@@ -12876,6 +12925,9 @@
            given={Michael},
            giveni={M\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {U of Alabama Huntsville, Western Kentucky U}%
+      }
       \strng{namehash}{8a47438d848af02f04cb4f54c7b0e331}
       \strng{fullhash}{d5542a890a5b36dcea7d3aa79b8537ca}
       \strng{bibnamehash}{d5542a890a5b36dcea7d3aa79b8537ca}
@@ -12888,6 +12940,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This study develops bicycle-vehicle safety performance functions (SPFs) for five facilities in the Highway Safety Manual (HSM). These are urban two-lane undivided segments (U2U), urban four-lane divided/undivided segments (U4DU), rural two-lane undivided segments (R2U), urban four-leg and three-leg signalized intersections (USG), and urban four-leg and three-leg stop-controlled intersections (UST). Two modeling techniques were explored, the Conway-Maxwell-Poisson (COM-Poisson) model (to accommodate bicycle-vehicle crash under-dispersion) and a machine learning technique, the multivariate adaptive regression splines (MARS). MARS is a non-black-box model and can effectively handle non-linear crash predictors and interactions. A total of 1,311 bicycle-vehicle crashes from 2011 through 2015 in Alabama were collected and their respective police reports were reviewed in details. Results from the SPFs for roadway segments using COM-Poisson showed that bicycle-vehicle crash frequencies were reduced along curved and downgrade/upgrade stretches and when having heavy traffic flow (along U2U segments). For urban signalized (USG) intersections, the absence of right-turn lanes on minor roads, the presence of bus stops, and the increase in the major road annual average daily traffic (AADT) were significant factors contributing to the increase in the number of bicycle-vehicle crashes. However, the presence of divided medians on major approaches was found to reduce bicycle-vehicle crashes at USG and UST intersections. MARS outperformed the corresponding COM-Poisson models for all five facilities based on mean absolute deviance (MAD), mean square prediction error (MSPE), and generalized R-square. MARS is recommended as a promising technique for effectively predicting bicycle-vehicle crashes on segments and intersections.}
+      \field{addendum}{Further research could compare the findings of this study with other bicycle safety studies in other states to see how bicycle-vehicle crash predictions using the MARS technique would concur or differ. The comparison can also pinpoint any differences in the significant predictors of bicycle-vehicle crashes at both segments and intersections in the analyzed states. Another research venue is to compare the MARS technique with other modeling approaches, e.g., the random-parameter negative binomial model to see how close or far the predictions are.}
+      \field{annotation}{Small data set. Homework assignment}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Developing Bicycle-Vehicle Crash-Specific Safety Performance Functions in Alabama Using Different Techniques}
@@ -14575,6 +14629,9 @@
            given={Thomas},
            giveni={T\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {MIT, U of Tennessee, Oak Ridge}%
+      }
       \strng{namehash}{f23024e12823b74a89adde718fe0cf95}
       \strng{fullhash}{f23024e12823b74a89adde718fe0cf95}
       \strng{bibnamehash}{f23024e12823b74a89adde718fe0cf95}
@@ -14587,6 +14644,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The sequence of instantaneous driving decisions and its variations, known as driving volatility, prior to involvement in safety critical events can be a leading indicator of safety. This study focuses on the component of “driving volatility matrix” related to specific normal and safety-critical events, named “event-based volatility.” The research issue is characterizing volatility in instantaneous driving decisions in the longitudinal and lateral directions, and how it varies across drivers involved in normal driving, crash, and/or near-crash events. To explore the issue, a rigorous quasi-experimental study design is adopted to help compare driving behaviors in normal vs unsafe outcomes. Using a unique real-world naturalistic driving database from the 2nd Strategic Highway Research Program (SHRP), a test set of 9593 driving events featuring 2.2 million temporal samples of real-world driving are analyzed. This study features a plethora of kinematic sensors, video, and radar spatiotemporal data about vehicle movement and therefore offers the opportunity to initiate such exploration. By using information related to longitudinal and lateral accelerations and vehicular jerk, 24 different aggregate and segmented measures of driving volatility are proposed that captures variations in extreme instantaneous driving decisions. In doing so, careful attention is given to the issue of intentional vs. unintentional volatility. The volatility indices, as leading indicators of near-crash and crash events, are then linked with safety critical events, crash propensity, and other event specific explanatory variables. Owing to the presence of unobserved heterogeneity and omitted variable bias, fixed- and random-parameter discrete choice models are developed that relate crash propensity to unintentional driving volatility and other factors. Statistically significant evidence is found that driver volatilities in near-crash and crash events are significantly greater than volatility in normal driving events. After controlling for traffic, roadway, and unobserved factors, the results suggest that greater intentional volatility increases the likelihood of both crash and near-crash events. A one-unit increase in intentional volatility is associated with positive vehicular jerk in longitudinal direction increases the chance of crash and near-crash outcome by 15.79 and 12.52 percentage points, respectively. Importantly, intentional volatility in positive vehicular jerk in lateral direction has more negative consequences than intentional volatility in positive vehicular jerk in longitudinal direction. Compared to acceleration/deceleration, vehicular jerk can better characterize the volatility in microscopic instantaneous driving decisions prior to involvement in safety critical events. Finally, the magnitudes of correlations exhibit significant heterogeneity, and that accounting for the heterogeneous effects in the modeling framework can provide more reliable and accurate results. The study demonstrates the value of quasi-experimental study design and big data analytics for understanding extreme driving behaviors in safe vs. unsafe driving outcomes.}
+      \field{annotation}{Not our data.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Exploring microscopic driving volatility in naturalistic driving environment prior to involvement in safety critical events—Concept of event-based driving volatility}
@@ -15118,6 +15176,9 @@
            given={Zhixia},
            giveni={Z\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {U of Louisville}%
+      }
       \strng{namehash}{51ecc44ca1bc55c55e090e23f4dccd58}
       \strng{fullhash}{51ecc44ca1bc55c55e090e23f4dccd58}
       \strng{bibnamehash}{51ecc44ca1bc55c55e090e23f4dccd58}
@@ -15130,6 +15191,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Automated vehicles (AV) testing on the public roads is ongoing in several states in the US as well as in Europe and Asia. As long as the automated vehicle technology has not achieved full automation (Level 5), human drivers are still expected to take over the steering wheel and throttles when there is an automated vehicle disengagement. However, contributing factors and the mechanism about automated vehicle-initiated disengagement has not been quantitatively and comprehensively explored and investigated due to the lack of field test data. Besides, understanding human drivers’ perception and promptness of reaction to the AV disengagement is essential to ensure safety transition between automated and manual driving. By harnessing California’s Autonomous Vehicle Disengagement Report Database, which includes the AV disengagement data from field tests in 2016–2017, this paper quantitatively investigated the AV disengagement using multiple statistical modeling approaches that involve statistical modeling and classification tree. Specifically, the paper identifies the contributing factors impacting human drivers’ promptness to AV disengagements, and quantitatively investigates the underlying causes to AV disengagements. Results indicate that current AV disengagement on public roads is dominated by causes due to a planning issue. The cause of an AV disengagement is significantly induced by lacking certain numbers of radar and LiDAR sensors installed on the automated vehicles. These thresholds of these sensors needed are revealed. Cause of disengagement and roadway characteristics significantly impact drivers’ take-over time when facing an AV disengagement. AV perception or control issue-based disengagement can significantly extend drivers’ perception-reaction time to take over the driving. The quantitative knowledge obtained ultimately facilitates revealing the mechanisms of the automated vehicle disengagements to ensure safe AV operations on public roads.}
+      \field{annotation}{Not our data.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Exploring causes and effects of automated vehicle disengagement using statistical modeling and classification tree based on field test data}
@@ -16018,6 +16080,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The crash data are often predominantly imbalanced, among which the fatal injury (or minority) crashes are significantly underrepresented relative to the non-fatal injury (or majority) ones. This unbalanced phenomenon poses a huge challenge to most of the statistical learning methods and needs to be addressed in the data preprocessing. To this end, we comparatively apply three data balance methods, i.e., the Synthetic Minority Oversampling Technique (SMOTE), the Borderline SMOTE (BL-SMOTE), and the Majority Weighted Minority Oversampling (MWMOTE). Then, we examine different Bayesian networks (BNs) to explore the contributing factors of fatal injury crashes. The 2016 highway crash data of Ghana are retrieved for the case study. The results show that the accuracy of the injury severity classification is improved by using the preprocessed data. Highest improvement is observed on the data preprocessed by the MWMOTE technique. Statistical verification is done by the Wilcoxon signed-rank test. The inference results of the best BNs show the significant factors of fatal crashes which include off-peak time, non-intersection area, pedestrian involved collisions, rural road environment, good tarred road, roads without shoulders, and multiple vehicles involved crash.}
+      \field{annotation}{See same article by same authors.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Bayesian networks for imbalance data to investigate the contributing factors to fatal injury crashes on the Ghanaian highways}
@@ -16871,6 +16934,9 @@
            given={Zhen},
            giveni={Z\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Tongj U, U of Central Florida}%
+      }
       \strng{namehash}{5154e68c0999c3d8379f8364c09574fe}
       \strng{fullhash}{982abf0646ee72a63b37ad152d678fca}
       \strng{bibnamehash}{982abf0646ee72a63b37ad152d678fca}
@@ -16884,6 +16950,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Understanding the occurrence mechanisms of crashes is critical for traffic safety improvement. Efforts have been investigated to reveal the crash mechanisms and analyze the contributing factors from the aspects of vehicle, driver, and operational perspectives. In this study, special attention has been paid to the operational level analyses while bridging the research gaps of: (1) failing to identify the heterogeneous impact of microscopic traffic flow variables on crash occurrence, and (2) focusing on correlation effects without further investigations for the causal relationships. A hybrid modeling approach with latent class logit (LCL) and path analysis (PA) models was proposed to account for the heterogeneous influencing effects and reveal the causal relationships between crash occurrence and microscopic traffic flow variables. Data from Shanghai urban expressway system were utilized for the empirical analyses. First, the LCL model has concluded four latent subsets of crash occurrence influencing factors. Then, PA models were conducted to identify the concurrent relationships (direct and indirect eﬀ ;ects) for the four sets of crash occurrence influencing factors separately. Finally, the results of the LCL model and PA models were compared and the crash-prone scenarios were inferred. And the potential safety improvement countermeasures were discussed.}
+      \field{addendum}{However, given the interesting findings from the proposed modeling approach, there are still several limitations of the current study. (1) First, this study employed matched case-control data structure with a fixed crash and non-crash ratio (1:4) to deal with the imbalanced crash risk analysis dataset. In future studies, other sampling techniques, such as over-sampling methods of synthetic minority oversampling technique (SMOTE) (Chawla et al., 2002) and full-size data would be tested. And the effects of sampling methods on the concurrent microscopic influencing factors need to be revealed. (2) Second, this study utilized the LCL model to group observations to account for the heterogeneity issues, and future efforts would be conducted to identify how to improve the proposed hybrid approach from the aspects of incorporating other clustering methods, such finite mixture model (FMM) (Park and Lord, 2009). (3) Moreover, after applying the LCL model to solve the heterogeneity issues, repeated measures still exist within a latent class. In this study, the matched case-control data preparation process can greatly reduce the impacts of repeated measures on the analysis results. While in future studies, other methods would be tested to solve this repeated measurement issues, such as incorporating the LCL model with roadway section unique random effect terms. (4) In addition, in this study, the PA models were employed to conduct the causal inference, which is a typical mediation analysis method. Additional efforts are needed to utilize other causal inference methods (Pearl, 2018), like propensity score matching (PSM) (Li et al., 2013; Li and Graham, 2016), to further explorations the causal relationships between crash occurrence and the microscopic traffic flow variables.}
+      \field{annotation}{Not our data}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Exploring crash mechanisms with microscopic traffic flow variables: A hybrid approach with latent class logit and path analysis models}
