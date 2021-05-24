@@ -1,5 +1,6 @@
 #!/bin/bash
-FILES=./Already_Read/*
+FILES="~/Users/bburkman/Documents/Spring_2021/619/Transportation_Research_Part_C/Papers_To_Read/A-bi-partite-generative-model-framework-for-analyz_2020_Transportation-Resea.pdf"
+touch Anystyle.bib
 for f in $FILES
 do
   echo "Extracting biblography from $f"
