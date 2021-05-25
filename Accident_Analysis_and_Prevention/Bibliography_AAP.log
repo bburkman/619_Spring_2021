@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  23 MAY 2021 16:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 MAY 2021 06:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -635,26 +635,16 @@ Overfull \hbox (0.22873pt too wide) in paragraph at lines 13--13
 r, (MAE)
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
 [65] [66] [67] [68] [69] [70]
 Overfull \hbox (0.64531pt too wide) in paragraph at lines 13--13
 \OT1/cmr/m/n/10.95 ac-ci-dent oc-cur-rence us-ing a bal-anced bag-ging ap-proac
 h.'' \OT1/cmr/m/it/10.95 Ac-ci-dent Anal-
  []
 
-[71] [72]
+[71] [72] [73]
 Overfull \hbox (13.41002pt too wide) in paragraph at lines 13--13
 [][]\OT1/cmr/m/n/10.95 Shi, Xi-u-peng, Yiik Diew Wong, Michael Zhi-Feng Li, Cha
 n-drasekar Palanisamy,
- []
-
-[73]
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
  []
 
 
@@ -663,17 +653,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
  []
 
 [74]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+
 Overfull \hbox (2.40326pt too wide) in paragraph at lines 13--13
 \OT1/cmr/m/n/10.95 with deep learn-ing.'' \OT1/cmr/m/it/10.95 Ac-ci-dent Anal-y
 -sis & Pre-ven-tion \OT1/cmr/m/n/10.95 134 (2020): 105319. 
  []
 
-
+[75]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[75] [76]
+[76]
 Overfull \hbox (5.53218pt too wide) in paragraph at lines 13--13
 [][]\OT1/cmr/m/n/10.95 Sohrabi, So-heil, Ali Kho-dadadi, Seyedeh Maryam Mousavi
 , Ba-har Dadashova,
@@ -685,12 +680,12 @@ Overfull \hbox (13.18985pt too wide) in paragraph at lines 13--13
  to de-velop a highway-
  []
 
-
+[77]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[77]
+
 Overfull \hbox (1.03107pt too wide) in paragraph at lines 13--13
 \OT1/cmr/m/n/10.95 Com-pre-hen-sive Railroad-Highway Grade Cross-ing Con-sol-i-
 da-tion Model:
@@ -807,11 +802,11 @@ Package logreq Info: Writing requests to 'Bibliography_AAP.run.xml'.
 Here is how much of TeX's memory you used:
  11589 strings out of 480608
  254624 string characters out of 5903631
- 1772572 words of memory out of 5000000
+ 1773654 words of memory out of 5000000
  27460 multiletter control sequences out of 15000+600000
  536845 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,5n,49p,4344b,3913s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,5n,49p,4435b,3913s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -821,7 +816,7 @@ r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/l
 ocal/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on Bibliography_AAP.pdf (101 pages, 304782 bytes).
+Output written on Bibliography_AAP.pdf (101 pages, 305117 bytes).
 PDF statistics:
  363 PDF objects out of 1000 (max. 8388607)
  249 compressed objects within 3 object streams
