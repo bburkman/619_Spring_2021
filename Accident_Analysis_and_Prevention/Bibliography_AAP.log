@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 MAY 2021 06:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  27 MAY 2021 17:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -366,7 +366,12 @@ Overfull \hbox (0.21289pt too wide) in paragraph at lines 13--13
 ran^^Xcoise An-ceaux, Cather-
  []
 
-[7] [8] [9]
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[8] [9]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
@@ -401,12 +406,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
  []
 
 [14] [15]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+
 Overfull \hbox (7.7622pt too wide) in paragraph at lines 13--13
 \OT1/cmr/m/n/10.95 Robert, Anuj K. Prad-han, and X. Jessie Yang. ``Pre-dict-ing
  driver takeover
  []
 
 [16]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
@@ -423,33 +438,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
  []
 
 [19] [20]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+
 Overfull \hbox (4.31345pt too wide) in paragraph at lines 13--13
 \OT1/cmr/m/n/10.95 and work-related out-comes.'' \OT1/cmr/m/it/10.95 Ac-ci-dent
  Anal-y-sis & Pre-ven-tion \OT1/cmr/m/n/10.95 135 (2020):
  []
 
-[21]
+[21] [22]
+Overfull \hbox (2.68942pt too wide) in paragraph at lines 13--13
+ [][] \OT1/cmr/bx/n/10.95 Brad's Notes: \OT1/cmr/m/n/10.95 Multi-Objective Deep
+ Re-in-force-ment Learn-ing. Adap-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[22] [23]
+
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[24]
+[23] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[25] [26]
 Overfull \hbox (0.76704pt too wide) in paragraph at lines 13--13
 \OT1/cmr/m/n/10.95 of brain imag-ing meth-ods in driv-ing be-haviour re-search.
 '' \OT1/cmr/m/it/10.95 Ac-ci-dent Anal-
  []
 
-[25] [26] [27]
+[27] [28] [29]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[28]
+[30]
 Overfull \hbox (1.72641pt too wide) in paragraph at lines 13--13
 \OT1/cmr/m/n/10.95 Muro-machi, and Soumik Nafis Sadeek. ``Real-time crash pre-d
 ic-tion mod-
@@ -460,7 +491,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[29]
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+
 Overfull \hbox (4.75761pt too wide) in paragraph at lines 13--13
 \OT1/cmr/m/n/10.95 change: Bayesian net-work pre-dic-tive mod-el-ing ap-proach.
 '' \OT1/cmr/m/it/10.95 Ac-ci-dent Anal-
@@ -471,27 +507,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[30]
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-[31]
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-[32]
+[32] [33]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-[33]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
@@ -507,15 +528,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
  []
 
 
-Overfull \hbox (2.54765pt too wide) in paragraph at lines 13--13
-\OT1/cmr/m/n/10.95 Chen. ``Cyber-attacks in the next-generation cars, mit-i-ga-
-tion tech-niques,
- []
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
-
-Overfull \hbox (0.22505pt too wide) in paragraph at lines 13--13
-\OT1/cmr/m/n/10.95 sever-i-ties can be en-hanced with data from ad-di-tional de
--ploy-ments across
  []
 
 [36]
@@ -523,18 +537,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[37] [38]
+[37]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[39]
+
+Overfull \hbox (2.54765pt too wide) in paragraph at lines 13--13
+\OT1/cmr/m/n/10.95 Chen. ``Cyber-attacks in the next-generation cars, mit-i-ga-
+tion tech-niques,
+ []
+
+[38]
+Overfull \hbox (0.22505pt too wide) in paragraph at lines 13--13
+\OT1/cmr/m/n/10.95 sever-i-ties can be en-hanced with data from ad-di-tional de
+-ploy-ments across
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[39] [40] [41]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[42]
 Overfull \hbox (5.92633pt too wide) in paragraph at lines 13--13
 \OT1/cmr/m/n/10.95 Brown. ``Com-puter vi-sion and driver dis-trac-tion: De-vel-
 op-ing a behaviour-
  []
 
-[40]
+[43]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
@@ -550,98 +591,134 @@ Overfull \hbox (5.37996pt too wide) in paragraph at lines 13--13
 o-ple ag-gres-sive drivers?
  []
 
-[41] [42]
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-[43]
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
 [44] [45]
-Overfull \hbox (1.0649pt too wide) in paragraph at lines 13--13
-\OT1/cmr/m/n/10.95 ver-sar-ial net-works.'' \OT1/cmr/m/it/10.95 Ac-ci-dent Anal
--y-sis & Pre-ven-tion \OT1/cmr/m/n/10.95 144 (2020): 105628. 
- []
-
-[46] [47] [48]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[48]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
 [49]
+Overfull \hbox (1.0649pt too wide) in paragraph at lines 13--13
+\OT1/cmr/m/n/10.95 ver-sar-ial net-works.'' \OT1/cmr/m/it/10.95 Ac-ci-dent Anal
+-y-sis & Pre-ven-tion \OT1/cmr/m/n/10.95 144 (2020): 105628. 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[50]
+[50] [51] [52]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[51]
+
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[52] [53] [54] [55]
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[56] [57] [58]
 Overfull \hbox (1.86568pt too wide) in paragraph at lines 13--13
 \OT1/cmr/m/n/10.95 mon-i-tor-ing and warn-ing sys-tem.'' Fa-tigue and Trans-por
 t, \OT1/cmr/m/it/10.95 Ac-ci-dent Anal-
  []
 
-[56] [57]
+[59] [60] [61]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[58]
+[62]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[59]
+[63]
 Overfull \hbox (6.71841pt too wide) in paragraph at lines 13--13
 [][]\OT1/cmr/m/n/10.95 Parsa, Amir Ba-hador, Homa Taghipour, Sybil Der-ri-ble, 
 and Abol-fazl (Kouros)
  []
 
-[60]
+
+Overfull \hbox (0.73918pt too wide) in paragraph at lines 13--13
+ [][] \OT1/cmr/bx/n/10.95 Brad's Notes: \OT1/cmr/m/n/10.95 Not pre-dic-tion, bu
+t iden-ti-fi-ca-tion from real-time data.
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[61] [62]
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[65] [66] [67]
 Overfull \hbox (1.24574pt too wide) in paragraph at lines 13--13
 []\OT1/cmr/m/n/10.95 Talks about dif-fer-ent met-rics: Pre-ci-sion, Re-call, Ac
 -cu-racy, Cross-entropy
  []
 
-[63] [64]
+[68]
 Overfull \hbox (0.22873pt too wide) in paragraph at lines 13--13
 \OT1/cmr/m/n/10.95 Net-work beat bench-mark mod-els in (MSE) Mean Squared Er-ro
 r, (MAE)
  []
 
-[65] [66] [67] [68] [69] [70]
+[69] [70] [71] [72]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[73] [74] [75]
 Overfull \hbox (0.64531pt too wide) in paragraph at lines 13--13
 \OT1/cmr/m/n/10.95 ac-ci-dent oc-cur-rence us-ing a bal-anced bag-ging ap-proac
 h.'' \OT1/cmr/m/it/10.95 Ac-ci-dent Anal-
  []
 
-[71] [72] [73]
+[76] [77] [78]
 Overfull \hbox (13.41002pt too wide) in paragraph at lines 13--13
 [][]\OT1/cmr/m/n/10.95 Shi, Xi-u-peng, Yiik Diew Wong, Michael Zhi-Feng Li, Cha
 n-drasekar Palanisamy,
@@ -652,7 +729,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[74]
+[79]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
@@ -663,24 +740,24 @@ Overfull \hbox (2.40326pt too wide) in paragraph at lines 13--13
 -sis & Pre-ven-tion \OT1/cmr/m/n/10.95 134 (2020): 105319. 
  []
 
-[75]
+[80]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[76]
+[81]
 Overfull \hbox (5.53218pt too wide) in paragraph at lines 13--13
 [][]\OT1/cmr/m/n/10.95 Sohrabi, So-heil, Ali Kho-dadadi, Seyedeh Maryam Mousavi
 , Ba-har Dadashova,
  []
 
-
+[82]
 Overfull \hbox (13.18985pt too wide) in paragraph at lines 13--13
 \OT1/cmr/m/n/10.95 learn-ing, text min-ing, and spa-tial anal-y-sis tech-niques
  to de-velop a highway-
  []
 
-[77]
+
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
@@ -696,37 +773,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[78] [79]
+[83] [84]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[80] [81]
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-[82] [83]
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-[84] [85]
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-[86]
+[85] [86]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
@@ -737,12 +789,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
  []
 
 [87] [88]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[89] [90] [91]
+Overfull \hbox (3.60497pt too wide) in paragraph at lines 13--13
+[]\OT1/cmr/m/n/10.95 Doesn't say where they got the weather re-port, un-less it
+'s in the SWITRS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[92]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[93]
 Overfull \hbox (8.36494pt too wide) in paragraph at lines 13--13
 \OT1/cmr/m/n/10.95 lifestyle-related dis-ease.'' \OT1/cmr/m/it/10.95 Ac-ci-dent
  Anal-y-sis & Pre-ven-tion \OT1/cmr/m/n/10.95 18, no. 5 (1986):
  []
 
-[89] [90]
+[94] [95]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[96]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
@@ -753,12 +846,12 @@ Overfull \hbox (2.53673pt too wide) in paragraph at lines 13--13
 ata us-ing Bayesian
  []
 
-[91]
+
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-
+[97]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
@@ -769,22 +862,32 @@ Overfull \hbox (7.702pt too wide) in paragraph at lines 13--13
  \OT1/cmr/m/it/10.95 Ac-ci-dent Anal-
  []
 
-[92] [93]
+[98] [99]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[94] [95] [96] [97] [98]
+[100] [101] [102]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[99]
+[103]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[100]
+[104]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[105]
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+[106]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
@@ -794,16 +897,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-[101] (./Bibliography_AAP.aux)
+[107] (./Bibliography_AAP.aux)
 Package logreq Info: Writing requests to 'Bibliography_AAP.run.xml'.
 \openout1 = `Bibliography_AAP.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11589 strings out of 480608
- 254624 string characters out of 5903631
- 1773654 words of memory out of 5000000
- 27460 multiletter control sequences out of 15000+600000
+ 11590 strings out of 480608
+ 254642 string characters out of 5903631
+ 1785312 words of memory out of 5000000
+ 27461 multiletter control sequences out of 15000+600000
  536845 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,5n,49p,4435b,3913s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -816,10 +919,10 @@ r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/l
 ocal/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on Bibliography_AAP.pdf (101 pages, 305117 bytes).
+Output written on Bibliography_AAP.pdf (107 pages, 316779 bytes).
 PDF statistics:
- 363 PDF objects out of 1000 (max. 8388607)
- 249 compressed objects within 3 object streams
+ 382 PDF objects out of 1000 (max. 8388607)
+ 262 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

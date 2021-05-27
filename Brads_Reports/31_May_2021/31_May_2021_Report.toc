@@ -1,0 +1,19 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Accuracy, Precision, Recall, Sensitivity, f1, False Alarm Rate}{1}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Train/Test Split for Imbalanced Data Set}{2}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}SMOTE: Synthetic Minority Oversampling TEchique}{2}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Negative Samples}{2}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Google Maps Data?}{3}{section.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Feature Selection, Redundant Variables}{3}{section.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Citing Sources for Common Knowledge}{4}{section.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}California Statewide Integrated Traffic Records System (SWITRS)}{4}{section.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}References}{5}{section.9}%
