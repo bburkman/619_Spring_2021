@@ -851,6 +851,9 @@
            given={Hairong},
            giveni={H\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {U of Tennessee}%
+      }
       \strng{namehash}{bd0ffaa274d9aa55edc54ab088d67f69}
       \strng{fullhash}{bd0ffaa274d9aa55edc54ab088d67f69}
       \strng{bibnamehash}{bd0ffaa274d9aa55edc54ab088d67f69}
@@ -863,6 +866,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Transportation safety is highly correlated with driving behavior, especially human error playing a key role in a large portion of crashes. Modern instrumentation and computational resources allow for the monitorization of driver, vehicle, and roadway/environment to extract leading indicators of crashes from multi-dimensional data streams. To quantify variations that are beyond normal in driver behavior and vehicle kinematics, the concept of volatility is applied. The study measures driver-vehicle volatilities using the naturalistic driving data. By integrating and fusing multiple real-time streams of data, i.e., driver distraction, vehicular movements and kinematics, and instability in driving, this study aims to predict occurrence of safety critical events and generate appropriate feedback to drivers and surrounding vehicles. The naturalistic driving data is used which contains 7566 normal driving events, and 1315 severe events (i.e., crash and near-crash), vehicle kinematics, and driver behavior collected from more than 3500 drivers. In order to capture the local dependency and volatility in time-series data 1D-Convolutional Neural Network (1D-CNN), Long Short-Term Memory (LSTM), and 1DCNN-LSTM are applied. Vehicle kinematics, driving volatility, and impaired driving (in terms of distraction) are used as the input parameters. The results reveal that the 1DCNN-LSTM model provides the best performance, with 95.45\% accuracy and prediction of 73.4\% of crashes with a precision of 95.67\%. Additional features are extracted with the CNN layers and temporal dependency between observations is addressed, which helps the network learn driving patterns and volatile behavior. The model can be used to monitor driving behavior in real-time and provide warnings and alerts to drivers in low-level automated vehicles, reducing their crash risk.}
+      \field{addendum}{In future research, other streams of data, including roadway condition, traffic state, and information of the surrounding vehicles can be incorporated to improve the model performance by providing additional information regarding the surrounding environment.}
+      \field{annotation}{Interesting. Like our work, but with SHRP-2 data.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Safety critical event prediction through unified analysis of driver and vehicle volatilities: Application of deep learning methods}
@@ -3360,6 +3365,9 @@
            given={Tarek},
            giveni={T\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {U of British Columbia}%
+      }
       \strng{namehash}{f88751cc5807733692b8a392667ece10}
       \strng{fullhash}{f88751cc5807733692b8a392667ece10}
       \strng{bibnamehash}{f88751cc5807733692b8a392667ece10}
@@ -3372,6 +3380,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Adaptive traffic signal control (ATSC) is a promising technique to improve the efficiency of signalized intersections, especially in the era of connected vehicles (CVs) when real-time information on vehicle positions and trajectories is available. Numerous ATSC algorithms have been proposed to accommodate real-time traffic conditions and optimize traffic efficiency. The common objective of these algorithms is to minimize total delay, decrease queue length, or maximize vehicle throughput. Despite their positive impacts on traffic mobility, the existing ATSC algorithms do not consider optimizing traffic safety. This is most likely due to the lack of tools to evaluate safety in real time. However, recent research has developed various real-time safety models for signalized intersections. These models can be used to evaluate safety in real time using dynamic traffic parameters, such as traffic volume, shock wave characteristics, and platoon ratio. Evaluating safety in real time can enable developing ATSC strategies for real-time safety optimization. In this paper, we present a novel self-learning ATSC algorithm to optimize the safety of signalized intersections. The algorithm was developed using the Reinforcement Learning (RL) approach and was trained using the simulation platform VISSIM. The trained algorithm was then validated using real-world traffic data obtained from two signalized intersections in the city of Surrey, British Columbia. Compared to the traditional actuated signal control system, the proposed algorithm reduces traffic conflicts by approximately 40 \%. Moreover, the proposed ATSC algorithm was tested under various market penetration rates (MPRs) of CVs. The results showed that 90 \% and 50 \% of the algorithm’s safety benefits can be achieved at MPR values of 50 \% and 30 \%, respectively. To the best of the authors’ knowledge, this is the first self-learning ATSC algorithm that optimizes traffic safety in real time.}
+      \field{annotation}{Reinforcement Learning}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Self-learning adaptive traffic signal control for real-time safety optimization}
@@ -8035,6 +8044,9 @@
            given={Tong},
            giveni={T\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Southeast U (Nanjing)}%
+      }
       \strng{namehash}{fcd45aa93b07a06122d442ee22d03cd0}
       \strng{fullhash}{0cf28eb9d2ebe71cb0b565fdd9d54827}
       \strng{bibnamehash}{0cf28eb9d2ebe71cb0b565fdd9d54827}
@@ -8048,6 +8060,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Lane changes made during traffic oscillations on freeways largely affect traffic safety and could increase collision potentials. Predicting the impacts of lane change can help to develop optimal lane change strategies of autonomous vehicles for safety improvement. The study aims at proposing a machine learning method for the short-term prediction of lane-changing impacts (LCI) during the propagation of traffic oscillations. The empirical lane-changing trajectory records were obtained from the Next Generation Simulation (NGSIM) platform. A support vector regression (SVR) model was trained in this study to predict the LCI on the crash risks and flow change using microscopic traffic variables such as individual speed, gap and acceleration on both original lanes and target lanes. Sensitivity analyses were conducted in the SVR to quantify the contributions of correlative lane changing factors. The results showed that the trained SVR model achieved an accuracy of 72.81 \% for the risk of crashes and 95.34 \% in predicting the flow change. The sensitivity analysis explored the optimal speed and acceleration for the lane changer to achieve the lowest time integrated time-to-collision (TIT) value for safety maximization. Finally, we compared the LCI for motorcycles, automobiles and trucks as well as the LCI for both lane-changing directions (from left to right and from right to left). It was found that motorcycles conducted lane changes with smaller gaps and larger speed differences, which brings the highest crash risks. Passenger cars were found to be the safest when they conduct lane changes. Lane changes to the right had more negative impacts on traffic flow and crash risks.}
+      \field{annotation}{Not our data. Interesting graphics.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Short-term prediction of safety and operation impacts of lane changes in oscillations with empirical vehicle trajectories}
@@ -8499,6 +8512,9 @@
            given={Helai},
            giveni={H\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Central South U (Changsha)}%
+      }
       \strng{namehash}{8319dc410024d7c164981a81b07eec6b}
       \strng{fullhash}{396cf6d17c03dbc222fc09fb948963d0}
       \strng{bibnamehash}{396cf6d17c03dbc222fc09fb948963d0}
@@ -8511,6 +8527,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The era of Big Data has arrived. Recently, under the environment of intelligent transportation systems (ITS) and connected/automated vehicles (CAV), Big Data has been applied in various fields in transportation including traffic safety. In this study, we review recent research studies that employed Big Data to analyze traffic safety under the environment of ITS and CAV. The particular topics include crash detection or prediction, discovery of contributing factors to crashes, driving behavior analysis, crash hotspot identification, etc. From the reviewed studies, employing advanced analytics for Big Data has a great potential for understanding and enhancing traffic safety. Big Data application in traffic safety integrates and processes massive multi-source data, breaks through the limitations of the traditional data analytics, and discovers and solves the problems, which cannot be solved by the traditional safety analytics. Lastly, suggestions are provided for future Big Data safety analytics under the environment of ITS and CAV.}
+      \field{annotation}{Not our data.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Review on big data applications in safety research of intelligent transportation systems and connected/automated vehicles}
@@ -9891,6 +9908,9 @@
            given={Maria},
            giveni={M\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {U of Naples Federico II, U of Campania Luigi Vanvitelli}%
+      }
       \strng{namehash}{e0684e0ee2c31adf6a41c04173cc17df}
       \strng{fullhash}{245e22de52121b33d55390f6e469f80a}
       \strng{bibnamehash}{245e22de52121b33d55390f6e469f80a}
@@ -9904,6 +9924,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The main objective of this paper was to analyse the roadway, environmental, and driver-related factors associated with an overrepresentation of frequency and severity of run-off-the-road (ROR) crashes. The data used in this study refer to the 6167 crashes occurred in the section Naples–Candela of A16 motorway, Italy in the period from 2001 to 2011. The analysis was carried out using the rule discovery technique due to its ability of extracting knowledge from large amounts of data previously unknown and indistinguishable by investigating patterns that occur together in a given event. The rules were filtered by support, confidence, lift, and validated by the lift increase criterion. A two-step analysis was carried out. In the first step, rules discovering factors contributing to ROR crashes were identified. In the second step, studying only ROR crashes, rules discovering factors contributing to severe and fatal injury (KSI) crashes were identified. As a result, 94 significant rules for ROR crashes and 129 significant rules for KSI crashes were identified. These rules represent several combinations of geometric design, roadside, barrier performance, crash dynamic, vehicle, environmental and drivers’ characteristics associated with an overrepresentation of frequency and severity of ROR crashes. From the methodological point of view, study results show that the a priori algorithm was effective in providing new information which was previously hidden in the data. Finally, several countermeasures to solve or mitigate the safety issues identified in this study were discussed. It is worthwhile to observe that the study showed a combination of factors contributing to the overrepresentation of frequency and severity of ROR crashes. Consequently, the implementation of a combination of countermeasures is recommended.}
+      \field{annotation}{Not ML}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Rule discovery to identify patterns contributing to overrepresentation and severity of run-off-the-road crashes}
@@ -15379,6 +15400,9 @@
            given={Grégoire\bibnamedelima S.},
            giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Queensland U of Technology}%
+      }
       \strng{namehash}{f460b5812f69c76dd429eefa03a18a1d}
       \strng{fullhash}{f460b5812f69c76dd429eefa03a18a1d}
       \strng{bibnamehash}{f460b5812f69c76dd429eefa03a18a1d}
@@ -15391,6 +15415,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Driver sleepiness is a major contributor to road crashes. A system that monitors and warns the driver at a certain, critical level of arousal, could aid in reducing sleep-related crashes. To determine how driver sleepiness detection systems perform, a systematic review of the sensitivity and specificity outcomes was performed. In total, 21 studies were located that met inclusion criteria for the review. The range of sensitivity outcomes was between 39.0–98.8 \% and between 73.0–98.9 \% for specificity outcomes. There was considerable variation in the outcomes of the studies employing only one physiological measure (mono-signal approach), whereas, a poly-signal approach with multiple physiological signals resulted in more consistency with higher outcomes on both sensitivity and specificity metrics. Only six of the 21 studies had both sensitivity and specificity outcomes above 90.0 \%, which included mono- and poly-signal approaches. Moreover, increases in the number of features used in the sleepiness detection system did not result in higher sensitivity and specificity outcomes. Overall, there was considerable variability between the studies reviewed, including measures of ground truth, the features employed and the machine learning approach of the systems. A critical need for progressing any system is a revalidation of the system on a new sample of users. These aspects indicate considerable progress is needed with physiological-based driver sleepiness systems before they are at a sufficient standard to be deployed on-road.}
+      \field{annotation}{Not our data.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Sensitivity and specificity of the driver sleepiness detection methods using physiological signals: A systematic review}
@@ -15801,6 +15826,9 @@
            given={Martin},
            giveni={M\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Würzburg Institute for Traffic Sciences, U of Ulm}%
+      }
       \strng{namehash}{56946be04afac03f6888199bd49422cd}
       \strng{fullhash}{56946be04afac03f6888199bd49422cd}
       \strng{bibnamehash}{56946be04afac03f6888199bd49422cd}
@@ -15813,6 +15841,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Sleep is emerging as a new driver state in automated driving. Post-sleep performance impairments due to sleep inertia, the transitional phase from sleep to wakefulness that can take up to 30 min, are a potential safety issue. Take-over performance immediately after sleep is impaired and drivers perceive the take-over as critical. The aim of the presented study was to assess take-over behavior immediately after sleep and driving behavior during the 10 min after sleep. A study with N = 31 drivers was conducted in a high-fidelity driving simulator. Take-over performance and driving performance were assessed a) under alert baseline conditions and b) after awakening from electroencephalography-confirmed stable sleep. Take-over performance 15 s after awakening was impaired resulting in more driving errors compared to the alert baseline. Lane keeping was dramatically impaired in the first 3 min after sleep and recovered rapidly. Drivers drove slower after sleep and speed keeping was less stable for at least 10 min. The results suggest that human-machine interaction design should account for the drivers’ impaired post-sleep driving performance.}
+      \field{annotation}{Not our data}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Sleep inertia in automated driving: Post-sleep take-over and driving performance}
@@ -15855,6 +15884,9 @@
            given={Martin},
            giveni={M\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Würzburger Institut für Verkehrswissenschaften GmbH, Volkswagen, U of Ulm}%
+      }
       \strng{namehash}{7f03a83d48fd576c6740f81773466c6f}
       \strng{fullhash}{3e40bac429f9ce2047e5b4feac1af9e0}
       \strng{bibnamehash}{3e40bac429f9ce2047e5b4feac1af9e0}
@@ -15867,6 +15899,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Takeover performance in automated driving is subject to investigation in the context of a variety of driver states such as distraction or drowsiness. New driver states will emerge with increasing automation level with drivers potentially being allowed to sleep while driving a highly automated vehicle. Still at some point during a drive, drivers will be required to or voluntarily take back control of the vehicle. A simulator study was conducted to investigate drivers’ ability to take over the vehicle control after sleeping. In a within-subjects study design N = 25 test drivers completed a drive using a highly automated driving system a) during day time after a full night of sleep and b) early in the morning after a night of partial sleep deprivation. During the second drive, sleep was measured in drivers according to the American Academy of Sleep Medicine (AASM) standard using electroencephalography (EEG). In total, the participants had to handle four takeover requests (TORs) from the system, two while being awake (day drive) and two when being awakened from sleep stage N2 (morning drive). The objective criticality of the situations was assessed performing the Takeover Controllability rating (TOC-rating). The results indicate that the applied takeover time of 60 s was sufficient for drivers to reengage in driving after sleeping. Reaction times were extended by about 3 s after sleep compared to the wake condition. Takeover performance assessed with the TOC-rating however was clearly worse after sleep than after wakefulness which was also reflected in the drivers’ subjective perception of the criticality of the situation. Further research is needed on how to deal with performance impairments after waking up from sleep during automated driving.}
+      \field{annotation}{Not our data.}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Sleep in highly automated driving: Takeover performance after waking up}
@@ -16358,6 +16391,9 @@
            given={Hao},
            giveni={H\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Southeast U (Nanjing)}%
+      }
       \strng{namehash}{cbe30bf1b3ba5de0c5f66304bd6b9296}
       \strng{fullhash}{f9ae6456b41fa0aced38e28ab260ef26}
       \strng{bibnamehash}{f9ae6456b41fa0aced38e28ab260ef26}
@@ -16370,6 +16406,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Single-vehicle crashes are more fatality-concentrated and have posed increasing challenges in traffic safety, which is of great research necessity. Tremendous previous studies have conducted relevant analysis with econometric modeling approaches, whereas the ability of non-parametric methods to predict crash severity is still smattering of knowledge. Consequently, the main objective of this paper is to conduct single-vehicle crash severity prediction with different tree-based and non-parameter models. An alternate aim is to identify the intrinsic mechanism of how contributing factors determine single-vehicle crash severity. By virtue of Grid-Search method, this paper conducted fine-tuning of different models to obtain the best performances based on five crash severity sub-datasets. For model evaluation, the accuracy indicators were calculated in training, validation and test sets, respectively. Besides, feature importance extraction was undertaken based on the results of model comparison. The finding indicated that these models didn’t exhibit a huge performance difference for crash severity prediction in the same severity level; however, the performances of the models did vary among different datasets, with an average training accuracy of 99.27 \%, 96.4 \%, 86.98 \%, 86.84 \%, 71.76 \% in fatal injury, severe injury, visible injury, complaint of pain, PDO crash datasets, respectively. Additionally, it was found that in each severity dataset, the indicator urban freeways is a determinant factor that leads to the occurrence of crashes while rural freeways is more related to more severe crashes (i.e., fatal and severe crashes). This paper can provide valuable information for model selection and tuning in accident severity prediction. Future research could consider the influences that temporal instability of contributing features has on the model performances.}
+      \field{addendum}{However, it should be noted that this paper is not free of limitations, more research could be implemented from these two aspects: (1) to further consider the influences that temporal instability of contributing features has on the model performances with more input sample distributed in different years; and (2) to explore the availability of deep learning (DL) models such as CNN, RNN, LSTM in crash severity prediction and compare their performance difference with traditional ML methods.}
+      \field{annotation}{Here, 'determinant' means 'determining factor.' Interesting for being similar to our work. Data from HSIS}
       \field{issn}{0001-4575}
       \field{journaltitle}{Accident Analysis \& Prevention}
       \field{title}{Single-vehicle crash severity outcome prediction and determinant extraction using tree-based and other non-parametric models}

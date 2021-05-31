@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  27 MAY 2021 17:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  30 MAY 2021 18:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1080,42 +1080,37 @@ Package biblatex Info: Reference segment=0 on input line 49.
 
  [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
-00.
+48.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 100.
- [2] [3]
-Overfull \hbox (18.5162pt too wide) in paragraph at lines 184--184
-[]\OT1/cmr/bx/n/14.4 California Statewide In-te-grated Traf-fic Records Sys-tem
- (SWITRS) 
- []
-
-[4] [5] (./31_May_2021_Report.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 205.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 205.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 148.
+ [4] [5] [6]
+[7] (./31_May_2021_Report.ind)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 266.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 266.
  (./31_May_2021_Report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 205.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 205.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 266.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 266.
 Package rerunfilecheck Info: File `31_May_2021_Report.out' has not changed.
-(rerunfilecheck)             Checksum: 929DFEFFD1BDC9FCA8953649381A9676;645.
+(rerunfilecheck)             Checksum: 18077C9E39DFA8830E7972DC3D74C0C6;1291.
 Package logreq Info: Writing requests to '31_May_2021_Report.run.xml'.
 \openout1 = `31_May_2021_Report.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 205.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 266.
  ) 
 Here is how much of TeX's memory you used:
- 28187 strings out of 480608
- 554027 string characters out of 5903631
- 1224851 words of memory out of 5000000
- 43568 multiletter control sequences out of 15000+600000
- 539256 words of font info for 48 fonts, out of 8000000 for 9000
+ 28214 strings out of 480608
+ 554591 string characters out of 5903631
+ 1225932 words of memory out of 5000000
+ 43584 multiletter control sequences out of 15000+600000
+ 539563 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,67p,1585b,1578s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,8n,67p,1585b,1576s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -1128,10 +1123,10 @@ cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
 al/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loca
 l/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local
 /texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on 31_May_2021_Report.pdf (5 pages, 157117 bytes).
+Output written on 31_May_2021_Report.pdf (7 pages, 163883 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
- 125 compressed objects within 2 object streams
- 19 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 204 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 149 words of extra memory for PDF output out of 10000 (max. 10000000)
 
